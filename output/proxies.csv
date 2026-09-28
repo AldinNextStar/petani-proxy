@@ -1,23 +1,18 @@
 protocol,ip,port,proxy,anonymity,latency_ms,country_code,country,city,isp,egress_ip
-http,34.238.148.125,3128,34.238.148.125:3128,Elite,138,US,United States,Ashburn,"Amazon.com, Inc.",34.238.148.125
-http,159.223.167.188,10000,159.223.167.188:10000,Elite,388,US,United States,North Bergen,"DigitalOcean, LLC",159.223.167.188
-http,107.167.18.122,443,107.167.18.122:443,Elite,404,US,United States,Los Angeles,Sharktech,107.167.18.99
-http,103.237.102.191,11111,103.237.102.191:11111,Elite,580,DE,Germany,Frankfurt am Main,Zenlayer Inc,103.237.102.191
-http,51.170.133.249,80,51.170.133.249:80,Elite,864,MA,Morocco,Casablanca,Oracle Corporation,51.170.133.249
-http,165.154.162.73,8888,165.154.162.73:8888,Elite,886,US,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,165.154.162.73
-http,37.59.125.131,8888,37.59.125.131:8888,Elite,1146,FR,France,Roubaix,OVH SAS,82.66.253.58
-http,185.196.61.251,8081,185.196.61.251:8081,Elite,1181,CA,Canada,Toronto,"BrainStorm Network, Inc",104.28.208.123
-http,89.117.63.120,8888,89.117.63.120:8888,Elite,1296,FR,France,Lauterbourg,Contabo GmbH,169.150.205.134
-http,178.92.72.129,8080,178.92.72.129:8080,Elite,1450,IN,India,Mumbai,Micro Hosting Private Limited,178.92.72.129
-http,61.7.131.183,8080,61.7.131.183:8080,Elite,1468,TH,Thailand,Suphan Buri,National Telecom Public Company Limited,61.7.131.183
-http,38.7.195.52,999,38.7.195.52:999,Elite,1655,CL,Chile,Santiago,Grupo ZGH SpA,151.241.85.26
-http,165.154.7.156,8888,165.154.7.156:8888,Elite,1702,HK,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,165.154.7.156
-http,177.234.217.43,999,177.234.217.43:999,Elite,1763,EC,Ecuador,Quito,Ufinet Panama S.A.,177.234.217.42
-http,43.173.120.13,8899,43.173.120.13:8899,Elite,1925,US,United States,Santa Clara,Shenzhen Tencent Computer Systems Company Limited,43.173.120.13
-http,8.215.112.240,7777,8.215.112.240:7777,Elite,1945,ID,Indonesia,Jakarta,"Alibaba (US) Technology Co., Ltd.",8.215.112.240
-http,45.232.0.2,8080,45.232.0.2:8080,Elite,2005,AR,Argentina,San Miguel de Tucumán,Sistemas Informaticos S.A.S.,45.232.0.2
-http,159.194.245.5,5555,159.194.245.5:5555,Elite,2193,RU,Russia,St Petersburg,Beget LLC,159.194.245.5
-http,210.211.113.37,80,210.211.113.37:80,Elite,2249,VN,Vietnam,Ho Chi Minh City,VTDC,210.211.113.37
-http,24.52.147.103,5999,24.52.147.103:5999,Elite,2275,US,United States,Havana,"Cass Cable TV, Inc.",24.52.147.103
-http,38.194.246.34,999,38.194.246.34:999,Elite,2409,MX,Mexico,Huauchinango,IENTC S de RL de CV,38.194.246.34
-http,36.137.204.11,8002,36.137.204.11:8002,Elite,2426,CN,China,Guangzhou,China Mobile Communications Corporation,137.220.43.243
+http,107.167.18.122,443,107.167.18.122:443,Elite,714,US,United States,Los Angeles,Sharktech,107.167.18.99
+http,131.153.163.84,8170,131.153.163.84:8170,Elite,859,US,United States,Ashburn,Secured Servers LLC,190.218.162.21
+http,210.211.113.33,80,210.211.113.33:80,Elite,1174,VN,Vietnam,Ho Chi Minh City,VTDC,210.211.113.33
+http,37.59.125.131,8888,37.59.125.131:8888,Elite,1178,FR,France,Roubaix,OVH SAS,82.66.253.58
+http,190.97.241.106,999,190.97.241.106:999,Elite,1180,VE,Venezuela,Táriba,Viginet C.A,190.97.241.106
+http,112.216.54.226,12121,112.216.54.226:12121,Elite,1284,KR,South Korea,Yongin-si,LG DACOM Corporation,112.216.54.226
+http,150.241.245.131,8080,150.241.245.131:8080,Elite,1403,IN,India,Bengaluru,Micro Hosting Private Limited,150.241.245.131
+http,178.92.72.149,8080,178.92.72.149:8080,Elite,1413,IN,India,Mumbai,Micro Hosting Private Limited,178.92.72.149
+http,206.135.43.62,999,206.135.43.62:999,Elite,1421,MX,Mexico,San Cristóbal de las Casas,Ientc S De RL De CV,206.135.43.62
+http,111.119.162.248,10915,111.119.162.248:10915,Elite,1445,PK,Pakistan,Tando Adam,Connect Communication,47.237.48.66
+http,163.181.207.169,9999,163.181.207.169:9999,Elite,1479,VN,Vietnam,Hanoi,"Zhejiang Taobao Network Co., Ltd",163.181.207.169
+http,203.205.49.2,10147,203.205.49.2:10147,Elite,1625,VN,Vietnam,Mai Dich,CMC Telecom Infrastructure Company,203.205.49.150
+http,165.154.162.73,8888,165.154.162.73:8888,Elite,2028,US,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,165.154.162.73
+http,103.18.79.108,8080,103.18.79.108:8080,Elite,2166,ID,Indonesia,Bogor,PT Usaha Adi Sanggoro,103.18.79.108
+http,24.52.147.103,5999,24.52.147.103:5999,Elite,2254,US,United States,Havana,"Cass Cable TV, Inc.",24.52.147.103
+http,113.161.93.6,8080,113.161.93.6:8080,Elite,2335,VN,Vietnam,Ho Chi Minh City,VietNam Post and Telecom Corporation,113.161.93.6
+http,23.251.102.121,80,23.251.102.121:80,Elite,2490,US,United States,Dallas,Zenlayer Inc,23.251.102.116
