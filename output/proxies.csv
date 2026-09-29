@@ -1,18 +1,27 @@
 protocol,ip,port,proxy,anonymity,latency_ms,country_code,country,city,isp,egress_ip
-http,107.167.18.122,443,107.167.18.122:443,Elite,714,US,United States,Los Angeles,Sharktech,107.167.18.99
-http,131.153.163.84,8170,131.153.163.84:8170,Elite,859,US,United States,Ashburn,Secured Servers LLC,190.218.162.21
-http,210.211.113.33,80,210.211.113.33:80,Elite,1174,VN,Vietnam,Ho Chi Minh City,VTDC,210.211.113.33
-http,37.59.125.131,8888,37.59.125.131:8888,Elite,1178,FR,France,Roubaix,OVH SAS,82.66.253.58
-http,190.97.241.106,999,190.97.241.106:999,Elite,1180,VE,Venezuela,Táriba,Viginet C.A,190.97.241.106
-http,112.216.54.226,12121,112.216.54.226:12121,Elite,1284,KR,South Korea,Yongin-si,LG DACOM Corporation,112.216.54.226
-http,150.241.245.131,8080,150.241.245.131:8080,Elite,1403,IN,India,Bengaluru,Micro Hosting Private Limited,150.241.245.131
-http,178.92.72.149,8080,178.92.72.149:8080,Elite,1413,IN,India,Mumbai,Micro Hosting Private Limited,178.92.72.149
-http,206.135.43.62,999,206.135.43.62:999,Elite,1421,MX,Mexico,San Cristóbal de las Casas,Ientc S De RL De CV,206.135.43.62
-http,111.119.162.248,10915,111.119.162.248:10915,Elite,1445,PK,Pakistan,Tando Adam,Connect Communication,47.237.48.66
-http,163.181.207.169,9999,163.181.207.169:9999,Elite,1479,VN,Vietnam,Hanoi,"Zhejiang Taobao Network Co., Ltd",163.181.207.169
-http,203.205.49.2,10147,203.205.49.2:10147,Elite,1625,VN,Vietnam,Mai Dich,CMC Telecom Infrastructure Company,203.205.49.150
-http,165.154.162.73,8888,165.154.162.73:8888,Elite,2028,US,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,165.154.162.73
-http,103.18.79.108,8080,103.18.79.108:8080,Elite,2166,ID,Indonesia,Bogor,PT Usaha Adi Sanggoro,103.18.79.108
-http,24.52.147.103,5999,24.52.147.103:5999,Elite,2254,US,United States,Havana,"Cass Cable TV, Inc.",24.52.147.103
-http,113.161.93.6,8080,113.161.93.6:8080,Elite,2335,VN,Vietnam,Ho Chi Minh City,VietNam Post and Telecom Corporation,113.161.93.6
-http,23.251.102.121,80,23.251.102.121:80,Elite,2490,US,United States,Dallas,Zenlayer Inc,23.251.102.116
+http,3.135.189.102,9000,3.135.189.102:9000,Elite,169,US,United States,Columbus,"Amazon.com, Inc.",3.135.189.102
+http,184.75.221.82,3118,184.75.221.82:3118,Elite,183,CA,Canada,Toronto,Amanah Tech Inc.,184.75.221.82
+http,34.43.46.91,80,34.43.46.91:80,Elite,354,US,United States,Mountain View,Google LLC,34.143.51.195
+http,174.138.161.186,54201,174.138.161.186:54201,Elite,605,US,United States,Phoenix,Secured Servers LLC,71.194.97.168
+http,103.237.102.191,11111,103.237.102.191:11111,Elite,625,DE,Germany,Frankfurt am Main,Zenlayer Inc,103.237.102.191
+http,107.167.18.122,443,107.167.18.122:443,Elite,657,US,United States,Los Angeles,Sharktech,107.167.18.99
+http,51.170.133.249,80,51.170.133.249:80,Elite,770,MA,Morocco,Casablanca,Oracle Corporation,51.170.133.249
+http,213.199.53.16,8888,213.199.53.16:8888,Elite,800,FR,France,Lauterbourg,Contabo GmbH,213.199.53.16
+http,103.155.196.166,3125,103.155.196.166:3125,Elite,1073,ID,Indonesia,Sukabumi,JEMBATANDATA,103.155.196.166
+http,43.173.120.13,8899,43.173.120.13:8899,Elite,1116,US,United States,Santa Clara,Shenzhen Tencent Computer Systems Company Limited,43.173.120.13
+http,47.81.56.193,8888,47.81.56.193:8888,Elite,1182,TH,Thailand,Bangkok,Alibaba.com LLC,47.81.56.193
+http,45.194.3.132,8080,45.194.3.132:8080,Elite,1336,IN,India,Noida,CtrlS,45.194.3.132
+http,117.18.127.238,1661,117.18.127.238:1661,Elite,1379,TH,Thailand,Pattaya,READYIDC CO,117.18.127.238
+http,150.241.245.230,8080,150.241.245.230:8080,Elite,1456,IN,India,Bengaluru,Micro Hosting Private Limited,150.241.245.230
+http,150.241.245.249,8080,150.241.245.249:8080,Elite,1483,IN,India,Bengaluru,Micro Hosting Private Limited,150.241.245.249
+http,178.92.72.154,8080,178.92.72.154:8080,Elite,1486,IN,India,Mumbai,Micro Hosting Private Limited,178.92.72.154
+http,178.92.72.134,8080,178.92.72.134:8080,Elite,1515,IN,India,Mumbai,Micro Hosting Private Limited,178.92.72.134
+http,178.92.72.68,8080,178.92.72.68:8080,Elite,1523,IN,India,Mumbai,Micro Hosting Private Limited,178.92.72.68
+http,178.92.72.194,8080,178.92.72.194:8080,Elite,1534,IN,India,Mumbai,Micro Hosting Private Limited,178.92.72.194
+http,167.86.104.220,80,167.86.104.220:80,Elite,1562,FR,France,Lauterbourg,Contabo GmbH,167.86.104.220
+http,8.219.97.248,80,8.219.97.248:80,Elite,1600,SG,Singapore,Singapore,Alibaba Cloud (Singapore) Private Limited,8.219.64.236
+http,178.92.72.149,8080,178.92.72.149:8080,Elite,1681,IN,India,Mumbai,Micro Hosting Private Limited,178.92.72.149
+http,147.139.173.50,7777,147.139.173.50:7777,Elite,1730,ID,Indonesia,Jakarta,Alibaba Cloud LLC,147.139.173.50
+http,43.251.225.168,8080,43.251.225.168:8080,Elite,2200,HK,Hong Kong,Hong Kong,cognetcloud INC,43.251.225.168
+http,27.54.121.90,8090,27.54.121.90:8090,Elite,2286,PK,Pakistan,Islamabad,ITSP,27.54.121.90
+http,111.119.162.248,10920,111.119.162.248:10920,Elite,2342,PK,Pakistan,Tando Adam,Connect Communication,47.87.16.1
