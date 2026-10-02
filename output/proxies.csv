@@ -1,22 +1,33 @@
 protocol,ip,port,proxy,anonymity,latency_ms,country_code,country,city,isp,egress_ip
-http,107.167.18.122,443,107.167.18.122:443,Elite,105,US,United States,Los Angeles,Sharktech,107.167.18.99
-http,43.173.120.13,8899,43.173.120.13:8899,Elite,148,US,United States,Santa Clara,Shenzhen Tencent Computer Systems Company Limited,43.173.120.13
-http,165.154.162.73,8888,165.154.162.73:8888,Elite,150,US,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,165.154.162.73
-http,138.197.68.35,4857,138.197.68.35:4857,Elite,243,US,United States,Clifton,"DigitalOcean, LLC",138.197.68.35
-http,38.18.230.153,8888,38.18.230.153:8888,Elite,266,US,United States,Ashburn,Tier.Net Technologies LLC,38.18.230.153
-http,184.75.221.82,3118,184.75.221.82:3118,Elite,291,CA,Canada,Toronto,Amanah Tech Inc.,184.75.221.82
-http,185.73.39.118,9999,185.73.39.118:9999,Elite,612,GB,United Kingdom,London,"Atlantic.net, Inc.",185.73.39.118
-http,103.237.102.191,11111,103.237.102.191:11111,Elite,635,DE,Germany,Frankfurt am Main,Zenlayer Inc,103.237.102.191
-http,65.109.215.187,8090,65.109.215.187:8090,Elite,902,FI,Finland,Helsinki,Hetzner Online GmbH,65.109.215.187
-http,43.134.165.186,80,43.134.165.186:80,Elite,1120,SG,Singapore,Singapore,Aceville Pte.ltd,43.134.165.186
-http,37.187.109.70,10111,37.187.109.70:10111,Elite,1309,FR,France,Roubaix,OVH SAS,37.187.109.70
-http,101.32.65.42,8888,101.32.65.42:8888,Elite,1320,HK,Hong Kong,Hong Kong,Aceville Pte.ltd,101.32.76.202
-http,65.109.87.121,18080,65.109.87.121:18080,Elite,1335,FI,Finland,Helsinki,Hetzner Online GmbH,77.111.247.34
-http,210.211.113.35,80,210.211.113.35:80,Elite,1359,VN,Vietnam,Ho Chi Minh City,VTDC,210.211.113.35
-http,157.10.97.185,8080,157.10.97.185:8080,Elite,1457,ID,Indonesia,Palembang,PT Lintas Jaringan Nusantara,157.10.97.185
-http,154.201.127.46,8080,154.201.127.46:8080,Elite,1643,IN,India,Noida,Real Time Data Services Private Limited,154.201.127.46
-http,8.219.97.248,80,8.219.97.248:80,Elite,1814,SG,Singapore,Singapore,Alibaba Cloud (Singapore) Private Limited,8.219.64.236
-http,51.170.133.249,80,51.170.133.249:80,Elite,1838,MA,Morocco,Casablanca,Oracle Corporation,51.170.133.249
-http,185.133.213.86,8074,185.133.213.86:8074,Elite,2057,MM,Myanmar,Yangon,Global Technology Co,185.133.213.86
-http,152.53.183.107,8081,152.53.183.107:8081,Elite,2264,DE,Germany,Nuremberg,netcup GmbH,152.53.183.107
-http,43.128.63.68,7890,43.128.63.68:7890,Elite,2276,HK,Hong Kong,Hong Kong,Shenzhen Tencent Computer Systems Company Limited,43.128.63.68
+http,38.18.230.153,8888,38.18.230.153:8888,Elite,40,US,United States,Ashburn,Tier.Net Technologies LLC,38.18.230.153
+http,184.75.221.82,3118,184.75.221.82:3118,Elite,103,CA,Canada,Toronto,Amanah Tech Inc.,184.75.221.82
+http,159.203.61.169,3128,159.203.61.169:3128,Elite,166,CA,Canada,Toronto,"DigitalOcean, LLC",159.203.61.169
+http,181.119.111.59,999,181.119.111.59:999,Elite,288,GT,Guatemala,Guatemala City,Ufinet Panama S.A.,181.119.111.59
+http,107.167.18.122,443,107.167.18.122:443,Elite,296,US,United States,Los Angeles,Sharktech,107.167.18.99
+http,43.173.120.13,8899,43.173.120.13:8899,Elite,346,US,United States,Santa Clara,Shenzhen Tencent Computer Systems Company Limited,43.173.120.13
+http,190.97.241.106,999,190.97.241.106:999,Elite,438,VE,Venezuela,Táriba,Viginet C.A,190.97.241.106
+http,103.237.102.191,11111,103.237.102.191:11111,Elite,482,DE,Germany,Frankfurt am Main,Zenlayer Inc,103.237.102.191
+http,176.111.37.5,39811,176.111.37.5:39811,Elite,498,HK,Hong Kong,Tsim Sha Tsui,Cogento Backbone Limited,176.111.37.5
+http,181.233.89.128,999,181.233.89.128:999,Elite,543,VE,Venezuela,Cabimas,Colnetwork C.A.,181.233.89.128
+http,165.154.162.73,8888,165.154.162.73:8888,Elite,565,US,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,165.154.162.73
+http,185.73.39.118,9999,185.73.39.118:9999,Elite,579,GB,United Kingdom,London,"Atlantic.net, Inc.",185.73.39.118
+http,79.137.78.133,8013,79.137.78.133:8013,Elite,716,FR,France,Roubaix,OVH SAS,149.88.110.58
+http,172.236.242.244,3128,172.236.242.244:3128,Elite,778,US,United States,Los Angeles,"Akamai Technologies, Inc.",172.236.242.244
+http,159.89.239.204,10000,159.89.239.204:10000,Elite,945,US,United States,North Bergen,"DigitalOcean, LLC",159.89.239.204
+http,2.28.105.45,8888,2.28.105.45:8888,Elite,990,DE,Germany,Falkenstein,Hetzner Online GmbH,45.192.34.63
+http,38.49.210.122,8118,38.49.210.122:8118,Elite,1000,CA,Canada,Montreal,Rica Web Services,38.49.210.122
+http,43.129.31.69,9055,43.129.31.69:9055,Elite,1044,HK,Hong Kong,Hong Kong,Aceville Pte.ltd,43.129.31.69
+http,37.59.125.131,8888,37.59.125.131:8888,Elite,1124,FR,France,Roubaix,OVH SAS,82.66.253.58
+http,177.234.217.88,999,177.234.217.88:999,Elite,1379,EC,Ecuador,Quito,Ufinet Panama S.A.,177.234.217.88
+http,149.71.241.164,8080,149.71.241.164:8080,Elite,1398,SG,Singapore,Singapore,Cogent Communications,149.71.241.164
+http,217.182.195.221,30003,217.182.195.221:30003,Elite,1431,FR,France,Roubaix,OVH SAS,185.246.188.74
+http,111.119.162.248,10917,111.119.162.248:10917,Elite,1539,??,Unknown,-,-,47.250.100.32
+http,177.234.221.203,999,177.234.221.203:999,Elite,1622,EC,Ecuador,Huaquillas,Ufinet Panama S.A.,177.234.221.194
+http,65.109.215.187,8090,65.109.215.187:8090,Elite,1705,FI,Finland,Helsinki,Hetzner Online GmbH,65.109.215.187
+http,163.181.207.230,9999,163.181.207.230:9999,Elite,1723,VN,Vietnam,Hanoi,"Zhejiang Taobao Network Co., Ltd",163.181.207.230
+http,190.12.150.244,999,190.12.150.244:999,Elite,1786,EC,Ecuador,Quininde,Servitelconet Cia. Ltda.,190.12.150.244
+http,18.117.141.52,9000,18.117.141.52:9000,Elite,1846,US,United States,Columbus,"Amazon.com, Inc.",18.117.141.52
+http,111.119.162.248,10935,111.119.162.248:10935,Elite,2011,PK,Pakistan,Tando Adam,Connect Communication,47.250.100.4
+http,137.59.195.198,8081,137.59.195.198:8081,Elite,2264,PK,Pakistan,Islamabad,Sky Telecom,137.59.195.198
+http,196.179.234.18,8989,196.179.234.18:8989,Elite,2340,TN,Tunisia,Sousse,ooredoo TN,196.179.234.18
+http,181.188.203.40,999,181.188.203.40:999,Elite,2437,EC,Ecuador,Montalvo,Ufinet Panama S.A.,181.188.203.40
