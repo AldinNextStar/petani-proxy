@@ -1,18 +1,15 @@
 protocol,ip,port,proxy,anonymity,latency_ms,country_code,country,city,isp,egress_ip
-http,34.43.46.91,80,34.43.46.91:80,Elite,229,US,United States,Mountain View,Google LLC,35.235.153.76
-http,43.173.120.13,8899,43.173.120.13:8899,Elite,248,US,United States,Santa Clara,Shenzhen Tencent Computer Systems Company Limited,43.173.120.13
-http,107.167.18.122,443,107.167.18.122:443,Elite,285,US,United States,Los Angeles,Sharktech,107.167.18.124
-http,187.201.225.188,999,187.201.225.188:999,Elite,338,MX,Mexico,Guadalajara,Uninet S.A. de C.V.,187.201.225.188
-http,187.250.21.4,999,187.250.21.4:999,Elite,442,MX,Mexico,Tijuana,Uninet S.A. de C.V.,187.250.21.4
-http,103.237.102.191,11111,103.237.102.191:11111,Elite,554,DE,Germany,Frankfurt am Main,Zenlayer Inc,103.237.102.191
-http,65.109.215.187,8090,65.109.215.187:8090,Elite,674,FI,Finland,Helsinki,Hetzner Online GmbH,65.109.215.187
-http,181.78.195.137,999,181.78.195.137:999,Elite,746,EC,Ecuador,Guayaquil,Ufinet Panama S.A.,205.235.1.115
-http,4.144.146.21,80,4.144.146.21:80,Elite,1031,SG,Singapore,Singapore,Microsoft Corporation,20.44.210.140
-http,45.194.3.119,8080,45.194.3.119:8080,Elite,1503,IN,India,Noida,CtrlS,45.194.3.119
-http,163.181.207.214,9999,163.181.207.214:9999,Elite,1506,VN,Vietnam,Hanoi,"Zhejiang Taobao Network Co., Ltd",163.181.207.214
-http,27.69.77.5,2111,27.69.77.5:2111,Elite,1902,VN,Vietnam,Hanoi,Viettel Group,27.73.208.144
-http,190.12.150.244,999,190.12.150.244:999,Elite,1932,EC,Ecuador,Quininde,Servitelconet Cia. Ltda.,190.12.150.244
-http,65.109.219.108,2000,65.109.219.108:2000,Elite,1979,FI,Finland,Helsinki,Hetzner Online GmbH,65.109.219.108
-http,94.198.188.140,81,94.198.188.140:81,Elite,2039,KZ,Kazakhstan,Semey,7sat LLP,94.198.188.140
-http,129.150.57.5,55555,129.150.57.5:55555,Elite,2041,SG,Singapore,Singapore,Oracle Corporation,129.150.57.5
-http,45.198.11.163,9191,45.198.11.163:9191,Elite,2389,ID,Indonesia,Colomadu,PT Jaringan Lintas Artha,45.198.10.159
+http,107.167.18.122,443,107.167.18.122:443,Elite,121,US,United States,Los Angeles,Sharktech,107.167.18.124
+http,43.173.120.13,8899,43.173.120.13:8899,Elite,160,US,United States,Santa Clara,Shenzhen Tencent Computer Systems Company Limited,43.173.120.13
+http,108.61.29.163,10001,108.61.29.163:10001,Elite,245,US,United States,Piscataway,The Constant Company,108.61.29.163
+http,34.43.46.91,80,34.43.46.91:80,Elite,390,??,Unknown,-,-,34.143.51.195
+http,165.154.162.73,8888,165.154.162.73:8888,Elite,495,US,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,165.154.162.73
+http,103.237.102.191,11111,103.237.102.191:11111,Elite,638,DE,Germany,Frankfurt am Main,Zenlayer Inc,103.237.102.191
+http,65.109.215.187,8090,65.109.215.187:8090,Elite,817,FI,Finland,Helsinki,Hetzner Online GmbH,65.109.215.187
+http,34.43.46.91,443,34.43.46.91:443,Elite,832,US,United States,Mountain View,Google LLC,34.143.18.241
+http,112.216.54.226,12121,112.216.54.226:12121,Elite,871,KR,South Korea,Yongin-si,LG DACOM Corporation,112.216.54.226
+http,4.144.146.21,80,4.144.146.21:80,Elite,1004,SG,Singapore,Singapore,Microsoft Corporation,20.44.210.140
+http,150.241.245.230,8080,150.241.245.230:8080,Elite,1234,IN,India,Bengaluru,Micro Hosting Private Limited,150.241.245.230
+http,187.110.232.118,8080,187.110.232.118:8080,Elite,2190,BR,Brazil,Fortaleza,DB3 SERVICOS DE TELECOMUNICACOES S.A,187.110.232.118
+http,192.119.102.215,1314,192.119.102.215:1314,Elite,2306,US,United States,Los Angeles,HostPapa,192.119.102.215
+http,190.97.241.106,999,190.97.241.106:999,Elite,2325,VE,Venezuela,Táriba,Viginet C.A,190.97.241.106
