@@ -1,28 +1,17 @@
 protocol,ip,port,proxy,anonymity,latency_ms,country_code,country,city,isp,egress_ip
-http,184.75.221.82,3118,184.75.221.82:3118,Elite,169,CA,Canada,Toronto,Amanah Tech Inc.,184.75.221.82
-http,138.68.60.8,3128,138.68.60.8:3128,Elite,340,US,United States,Santa Clara,"DigitalOcean, LLC",138.68.60.8
-http,43.173.120.13,8899,43.173.120.13:8899,Elite,429,US,United States,Santa Clara,Shenzhen Tencent Computer Systems Company Limited,43.173.120.13
-http,103.237.102.191,11111,103.237.102.191:11111,Elite,471,DE,Germany,Frankfurt am Main,Zenlayer Inc,103.237.102.191
-http,181.78.195.137,999,181.78.195.137:999,Elite,503,EC,Ecuador,Guayaquil,Ufinet Panama S.A.,205.235.1.115
-http,161.35.70.249,80,161.35.70.249:80,Elite,508,DE,Germany,Frankfurt am Main,"DigitalOcean, LLC",161.35.70.249
-http,200.128.84.82,3128,200.128.84.82:3128,Elite,716,BR,Brazil,Cruz das Almas,Universidade Federal DA Bahia,200.128.84.82
-http,187.201.225.188,999,187.201.225.188:999,Elite,867,MX,Mexico,Guadalajara,Uninet S.A. de C.V.,187.201.225.188
-http,34.43.46.91,80,34.43.46.91:80,Elite,877,??,Unknown,-,-,34.143.51.195
-http,178.92.72.165,8080,178.92.72.165:8080,Elite,1012,IN,India,Mumbai,Micro Hosting Private Limited,178.92.72.165
-http,194.87.197.21,8080,194.87.197.21:8080,Elite,1016,RU,Russia,St Petersburg,LLC Baxet,89.105.219.180
-http,34.43.46.91,443,34.43.46.91:443,Elite,1147,US,United States,Mountain View,Google LLC,34.143.18.241
-http,203.205.49.2,10137,203.205.49.2:10137,Elite,1230,VN,Vietnam,Mai Dich,CMC Telecom Infrastructure Company,203.205.49.140
-http,102.244.78.61,8082,102.244.78.61:8082,Elite,1312,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8088,102.244.78.61:8088,Elite,1320,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8086,102.244.78.61:8086,Elite,1322,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8085,102.244.78.61:8085,Elite,1323,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8087,102.244.78.61:8087,Elite,1324,??,Unknown,-,-,102.244.78.57
-http,165.154.162.73,8888,165.154.162.73:8888,Elite,1336,US,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,165.154.162.73
-http,102.244.78.61,8080,102.244.78.61:8080,Elite,1366,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8081,102.244.78.61:8081,Elite,1376,CM,Cameroon,Douala,Orange CAM INTERNET,102.244.78.57
-http,5.253.191.115,80,5.253.191.115:80,Elite,1460,??,Unknown,-,-,5.253.191.115
-http,5.253.191.115,8080,5.253.191.115:8080,Elite,1499,NL,The Netherlands,Amsterdam,Serverbike LTD,5.253.191.115
-http,77.73.68.24,8080,77.73.68.24:8080,Elite,1590,RU,Russia,St Petersburg,Veesp datacenter,163.47.43.247
-http,47.242.218.151,9020,47.242.218.151:9020,Elite,1649,HK,Hong Kong,Hong Kong,Alibaba.com LLC,47.242.181.198
-http,187.190.58.152,8081,187.190.58.152:8081,Elite,1954,MX,Mexico,Mazatlán,"TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.",187.190.58.152
-http,190.12.150.244,999,190.12.150.244:999,Elite,2021,EC,Ecuador,Quininde,Servitelconet Cia. Ltda.,190.12.150.244
+http,165.154.162.73,8888,165.154.162.73:8888,Elite,279,US,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,165.154.162.73
+http,34.43.46.91,80,34.43.46.91:80,Elite,420,US,United States,Mountain View,Google LLC,34.143.51.195
+http,34.43.46.91,443,34.43.46.91:443,Elite,485,??,Unknown,-,-,34.143.51.195
+http,103.237.102.191,11111,103.237.102.191:11111,Elite,573,DE,Germany,Frankfurt am Main,Zenlayer Inc,103.237.102.191
+http,43.173.120.13,8899,43.173.120.13:8899,Elite,633,US,United States,Santa Clara,Shenzhen Tencent Computer Systems Company Limited,43.173.120.13
+http,101.32.65.42,8888,101.32.65.42:8888,Elite,925,HK,Hong Kong,Lau Fau Shan,Aceville Pte.ltd,101.32.72.181
+http,102.244.78.61,8081,102.244.78.61:8081,Elite,1357,CM,Cameroon,Douala,Orange CAM INTERNET,102.244.78.57
+http,102.244.78.61,8090,102.244.78.61:8090,Elite,1376,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8080,102.244.78.61:8080,Elite,1377,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8089,102.244.78.61:8089,Elite,1381,??,Unknown,-,-,102.244.78.57
+http,180.183.78.47,18080,180.183.78.47:18080,Elite,1386,TH,Thailand,Bangkok,Triple T Broadband Public Company Limited,180.183.75.249
+http,102.244.78.61,8088,102.244.78.61:8088,Elite,1390,??,Unknown,-,-,102.244.78.57
+http,203.205.49.2,10028,203.205.49.2:10028,Elite,1934,VN,Vietnam,Mai Dich,CMC Telecom Infrastructure Company,203.205.49.31
+http,210.211.113.35,80,210.211.113.35:80,Elite,2179,VN,Vietnam,Ho Chi Minh City,VTDC,210.211.113.35
+http,111.119.162.248,10928,111.119.162.248:10928,Elite,2236,PK,Pakistan,Tando Adam,Connect Communication,47.90.176.29
+http,41.216.191.85,8080,41.216.191.85:8080,Elite,2287,ID,Indonesia,South Jakarta,Perwira,103.86.116.38
