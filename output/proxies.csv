@@ -1,30 +1,31 @@
 protocol,ip,port,proxy,anonymity,latency_ms,country_code,country,city,isp,egress_ip
-http,108.61.29.163,10001,108.61.29.163:10001,Elite,190,US,United States,Piscataway,The Constant Company,108.61.29.163
-http,43.173.120.13,8899,43.173.120.13:8899,Elite,397,US,United States,Santa Clara,Shenzhen Tencent Computer Systems Company Limited,43.173.120.13
-http,103.237.102.191,11111,103.237.102.191:11111,Elite,639,DE,Germany,Frankfurt am Main,Zenlayer Inc,103.237.102.191
-http,187.245.209.253,999,187.245.209.253:999,Elite,772,MX,Mexico,Durango,"Mega Cable, S.A. de C.V.",187.245.209.253
-http,104.225.162.20,8082,104.225.162.20:8082,Elite,776,US,United States,Charlotte,"iboss, inc",104.225.162.20
-http,45.84.164.144,8080,45.84.164.144:8080,Elite,795,CZ,Czechia,Prague,POPE servis s.r.o,45.84.164.144
-http,45.65.226.40,999,45.65.226.40:999,Elite,836,AR,Argentina,Buenos Aires,Solution LAN S.A,45.65.226.40
-http,194.87.10.245,1234,194.87.10.245:1234,Elite,980,SG,Singapore,Singapore,Baxet Group Inc.,194.87.10.245
-http,89.43.133.131,8080,89.43.133.131:8080,Elite,1060,SY,Syria,Armanāz,High Speed For Internet Services L.L.C,89.43.133.131
-http,200.53.2.161,8403,200.53.2.161:8403,Elite,1142,BR,Brazil,Livramento,HQV INFORMATICA LTDA,200.53.2.160
-http,102.244.78.61,8085,102.244.78.61:8085,Elite,1207,CM,Cameroon,Douala,Orange CAM INTERNET,102.244.78.57
-http,102.244.78.61,8081,102.244.78.61:8081,Elite,1208,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8088,102.244.78.61:8088,Elite,1212,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8090,102.244.78.61:8090,Elite,1241,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8087,102.244.78.61:8087,Elite,1249,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8089,102.244.78.61:8089,Elite,1251,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8083,102.244.78.61:8083,Elite,1252,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8086,102.244.78.61:8086,Elite,1254,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8080,102.244.78.61:8080,Elite,1275,??,Unknown,-,-,102.244.78.57
-http,46.183.134.50,8080,46.183.134.50:8080,Elite,1331,RU,Russia,Khabarovsk,REDCOM LIR 3 Subroute VL,46.183.134.50
-http,152.0.45.48,8080,152.0.45.48:8080,Elite,1463,DO,Dominican Republic,Santiago de los Caballeros,Compañía Dominicana de Teléfonos S. A.,152.0.45.48
-http,149.86.151.182,8080,149.86.151.182:8080,Elite,1475,TR,Türkiye,Selçuklu,Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi,185.146.138.162
-http,200.36.178.42,999,200.36.178.42:999,Elite,1624,MX,Mexico,Reynosa,Pegaso PCS,200.39.13.149
-http,190.109.126.24,1010,190.109.126.24:1010,Elite,1969,AR,Argentina,Córdoba,Internet Cordoba S.A.S,190.109.124.16
-http,165.154.162.73,8888,165.154.162.73:8888,Elite,2069,US,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,165.154.162.73
-http,111.119.162.248,10938,111.119.162.248:10938,Elite,2150,PK,Pakistan,Tando Adam,Connect Communication,8.213.141.130
-http,38.76.138.14,999,38.76.138.14:999,Elite,2170,VE,Venezuela,Caracas,CORPORACIÓN GALA IT C.A,38.76.138.14
-http,65.20.183.178,8080,65.20.183.178:8080,Elite,2205,IQ,Iraq,Baghdad,Hulum,65.20.183.178
-http,14.245.166.183,8080,14.245.166.183:8080,Elite,2226,VN,Vietnam,Da Nang,VNPT,14.245.166.183
+http,138.68.60.8,3128,138.68.60.8:3128,Elite,322,US,United States,Santa Clara,"DigitalOcean, LLC",138.68.60.8
+http,134.209.29.120,3128,134.209.29.120:3128,Elite,436,GB,United Kingdom,Slough,"DigitalOcean, LLC",134.209.29.120
+http,43.173.120.13,8899,43.173.120.13:8899,Elite,539,US,United States,Santa Clara,Shenzhen Tencent Computer Systems Company Limited,43.173.120.13
+http,105.155.135.200,3129,105.155.135.200:3129,Elite,707,MA,Morocco,Souq Sebt Oulad Nemma,ADSL Maroc telecom,41.249.230.141
+http,41.33.60.42,8081,41.33.60.42:8081,Elite,922,EG,Egypt,Cairo,TE Data,41.33.60.42
+http,112.216.54.226,12121,112.216.54.226:12121,Elite,1002,KR,South Korea,Yongin-si,LG DACOM Corporation,112.216.54.226
+http,139.59.1.14,8080,139.59.1.14:8080,Elite,1093,IN,India,Bengaluru,DIGITALOCEAN,139.59.1.14
+http,102.244.78.61,8090,102.244.78.61:8090,Elite,1114,CM,Cameroon,Douala,Orange CAM INTERNET,102.244.78.57
+http,102.244.78.61,8087,102.244.78.61:8087,Elite,1117,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8088,102.244.78.61:8088,Elite,1117,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8083,102.244.78.61:8083,Elite,1118,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8089,102.244.78.61:8089,Elite,1118,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8081,102.244.78.61:8081,Elite,1124,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8084,102.244.78.61:8084,Elite,1125,??,Unknown,-,-,102.244.78.57
+http,178.92.72.54,8080,178.92.72.54:8080,Elite,1226,IN,India,Mumbai,Micro Hosting Private Limited,178.92.72.54
+http,94.228.121.237,8080,94.228.121.237:8080,Elite,1244,RU,Russia,St Petersburg,"JSC ""TIMEWEB""",104.28.196.105
+http,103.237.102.191,11111,103.237.102.191:11111,Elite,1445,DE,Germany,Frankfurt am Main,Zenlayer Inc,103.237.102.191
+http,111.119.162.248,10970,111.119.162.248:10970,Elite,1674,??,Unknown,-,-,47.252.0.200
+http,210.211.113.33,80,210.211.113.33:80,Elite,1841,VN,Vietnam,Ho Chi Minh City,VTDC,210.211.113.33
+http,184.75.221.82,3118,184.75.221.82:3118,Elite,1846,CA,Canada,Toronto,Amanah Tech Inc.,184.75.221.82
+http,190.97.241.106,999,190.97.241.106:999,Elite,1873,VE,Venezuela,Táriba,Viginet C.A,190.97.241.106
+http,34.43.46.91,80,34.43.46.91:80,Elite,1919,US,United States,Mountain View,Google LLC,34.143.51.195
+http,111.119.162.248,10922,111.119.162.248:10922,Elite,1949,??,Unknown,-,-,47.253.202.181
+http,194.87.197.21,8080,194.87.197.21:8080,Elite,2007,RU,Russia,St Petersburg,LLC Baxet,89.105.219.180
+http,64.181.247.193,443,64.181.247.193:443,Elite,2007,US,United States,San Jose,Oracle Corporation,64.181.247.193
+http,103.79.16.44,50009,103.79.16.44:50009,Elite,2156,PK,Pakistan,Karachi,Logon Broadband Pvt Ltd,72.255.37.42
+http,111.119.162.248,10951,111.119.162.248:10951,Elite,2296,PK,Pakistan,Tando Adam,Connect Communication,156.146.38.167
+http,111.119.162.248,10971,111.119.162.248:10971,Elite,2381,??,Unknown,-,-,193.29.139.184
+http,165.154.162.73,8888,165.154.162.73:8888,Elite,2383,US,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,165.154.162.73
+http,212.175.50.76,8085,212.175.50.76:8085,Elite,2390,TR,Turkey,Ceylanpınar,Turk Telekomunikasyon Anonim Sirketi,212.175.50.76
