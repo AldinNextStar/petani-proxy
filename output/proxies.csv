@@ -1,51 +1,43 @@
 protocol,ip,port,proxy,anonymity,latency_ms,country_code,country,city,isp,egress_ip
-http,108.61.29.163,10001,108.61.29.163:10001,Elite,234,US,United States,Piscataway,The Constant Company,108.61.29.163
-http,184.75.221.82,3118,184.75.221.82:3118,Elite,316,CA,Canada,Toronto,Amanah Tech Inc.,184.75.221.82
-http,165.154.162.73,8888,165.154.162.73:8888,Elite,373,US,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,165.154.162.73
-http,43.173.120.13,8899,43.173.120.13:8899,Elite,776,US,United States,Santa Clara,Shenzhen Tencent Computer Systems Company Limited,43.173.120.13
-http,159.195.194.242,8080,159.195.194.242:8080,Elite,876,DE,Germany,Nuremberg,netcup GmbH,51.158.231.184
-http,4.144.146.21,80,4.144.146.21:80,Elite,973,SG,Singapore,Singapore,Microsoft Corporation,20.44.210.140
-http,38.49.138.197,999,38.49.138.197:999,Elite,1032,MX,Mexico,Tlanalapa,IENTC S de RL de CV,38.49.138.197
-http,8.215.112.240,7777,8.215.112.240:7777,Elite,1042,ID,Indonesia,Jakarta,"Alibaba (US) Technology Co., Ltd.",8.215.112.240
-http,103.160.41.8,8080,103.160.41.8:8080,Elite,1046,ID,Indonesia,Kadugadung,WISTEL,103.160.41.8
-http,194.87.10.245,1234,194.87.10.245:1234,Elite,1062,SG,Singapore,Singapore,Baxet Group Inc.,194.87.10.245
-http,180.191.230.220,5002,180.191.230.220:5002,Elite,1116,PH,Philippines,Talisay City,Globe Telecom,180.191.230.220
-http,203.205.49.2,10068,203.205.49.2:10068,Elite,1172,??,Unknown,-,-,203.205.49.71
-http,144.31.146.195,8080,144.31.146.195:8080,Elite,1173,IN,India,Mumbai,Micro Hosting Private Limited,144.31.146.195
-http,49.149.119.38,8081,49.149.119.38:8081,Elite,1181,PH,Philippines,Malaybalay,Philippine Long Distance Telephone Co.,49.149.119.38
-http,102.244.78.61,8080,102.244.78.61:8080,Elite,1234,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8086,102.244.78.61:8086,Elite,1235,CM,Cameroon,Douala,Orange CAM INTERNET,102.244.78.57
-http,102.244.78.61,8087,102.244.78.61:8087,Elite,1237,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8082,102.244.78.61:8082,Elite,1251,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8088,102.244.78.61:8088,Elite,1259,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8089,102.244.78.61:8089,Elite,1260,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8085,102.244.78.61:8085,Elite,1264,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8084,102.244.78.61:8084,Elite,1268,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8083,102.244.78.61:8083,Elite,1279,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8081,102.244.78.61:8081,Elite,1291,??,Unknown,-,-,102.244.78.57
-http,111.119.162.248,10960,111.119.162.248:10960,Elite,1395,??,Unknown,-,-,193.29.139.152
-http,38.194.246.34,999,38.194.246.34:999,Elite,1503,MX,Mexico,Los Ramírez,IENTC S de RL de CV,38.194.246.34
-http,103.175.81.251,8080,103.175.81.251:8080,Elite,1521,ID,Indonesia,Rejanegara,PT Panglima Kamayo Media,103.175.81.251
-http,111.119.162.248,10982,111.119.162.248:10982,Elite,1531,??,Unknown,-,-,193.29.139.193
-http,103.173.162.95,8818,103.173.162.95:8818,Elite,1554,ID,Indonesia,Jatiwangi,Paket Data Andal,103.173.162.95
-http,203.205.49.2,10064,203.205.49.2:10064,Elite,1573,VN,Vietnam,Mai Dich,CMC Telecom Infrastructure Company,203.205.49.67
-http,103.175.240.80,7777,103.175.240.80:7777,Elite,1575,ID,Indonesia,Comal,LDP,103.175.240.80
-http,103.237.102.191,11111,103.237.102.191:11111,Elite,1660,DE,Germany,Frankfurt am Main,Zenlayer Inc,103.237.102.191
-http,45.71.186.214,999,45.71.186.214:999,Elite,1693,EC,Ecuador,Naranjito,Ufinet Panama S.A.,181.78.194.249
-http,196.74.218.1,2001,196.74.218.1:2001,Elite,1765,MA,Morocco,Rabat,ADSL Maroc telecom,196.64.99.20
-http,111.119.162.248,10928,111.119.162.248:10928,Elite,1818,??,Unknown,-,-,47.90.176.29
-http,111.119.162.248,10939,111.119.162.248:10939,Elite,1850,PK,Pakistan,Tando Adam,Connect Communication,8.208.75.96
-http,111.119.162.248,10913,111.119.162.248:10913,Elite,1862,??,Unknown,-,-,47.237.48.65
-http,111.119.162.248,10922,111.119.162.248:10922,Elite,1862,??,Unknown,-,-,47.253.202.181
-http,177.234.217.237,999,177.234.217.237:999,Elite,1874,EC,Ecuador,Quito,Ufinet Panama S.A.,177.234.217.88
-http,103.124.139.197,8181,103.124.139.197:8181,Elite,1875,ID,Indonesia,Tangerang,Global Media Data Prima,103.124.139.197
-http,103.162.54.18,8181,103.162.54.18:8181,Elite,1878,ID,Indonesia,Pamanukan,PT Pratama Asia Globalindo,103.162.54.18
-http,190.242.58.148,999,190.242.58.148:999,Elite,1891,CO,Colombia,Cali,Liberty Networks De Colombia,190.131.247.171
-http,181.188.203.40,999,181.188.203.40:999,Elite,1922,EC,Ecuador,Montalvo,Ufinet Panama S.A.,181.188.203.42
-http,103.172.71.229,9191,103.172.71.229:9191,Elite,1926,ID,Indonesia,Cikampek,AZNET,103.172.71.229
-http,38.191.212.117,999,38.191.212.117:999,Elite,2045,CO,Colombia,Cúcuta,TV&MÁS S.A.S,38.191.209.206
-http,87.215.14.228,65432,87.215.14.228:65432,Elite,2093,NL,The Netherlands,Amsterdam,Odido Netherlands B.V.,87.215.14.228
-http,1.20.101.32,8080,1.20.101.32:8080,Elite,2109,TH,Thailand,Chon Buri,TOT Public Company Limited,1.20.101.32
-http,180.191.143.185,8081,180.191.143.185:8081,Elite,2176,PH,Philippines,Makati City,Globe Telecom,180.191.143.185
-http,64.181.247.193,443,64.181.247.193:443,Elite,2181,US,United States,San Jose,Oracle Corporation,64.181.247.193
-http,190.60.34.250,999,190.60.34.250:999,Elite,2284,CO,Colombia,Andalucía,Ufinet Panama S.A.,181.78.17.131
+http,43.173.120.13,8899,43.173.120.13:8899,Elite,242,US,United States,Santa Clara,Shenzhen Tencent Computer Systems Company Limited,43.173.120.13
+http,34.43.46.91,443,34.43.46.91:443,Elite,246,??,Unknown,-,-,34.143.51.195
+http,104.225.162.20,8082,104.225.162.20:8082,Elite,454,US,United States,Charlotte,"iboss, inc",104.225.162.20
+http,181.78.194.249,999,181.78.194.249:999,Elite,666,EC,Ecuador,Guayaquil,Ufinet Panama S.A.,181.78.194.249
+http,103.237.102.191,11111,103.237.102.191:11111,Elite,758,DE,Germany,Frankfurt am Main,Zenlayer Inc,103.237.102.191
+http,82.47.161.152,8443,82.47.161.152:8443,Elite,1000,TR,Turkey,Istanbul,,82.47.161.152
+http,194.87.10.245,1234,194.87.10.245:1234,Elite,1079,SG,Singapore,Singapore,Baxet Group Inc.,194.87.10.245
+http,178.92.72.94,8080,178.92.72.94:8080,Elite,1105,IN,India,Mumbai,Micro Hosting Private Limited,178.92.72.94
+http,8.215.25.3,2081,8.215.25.3:2081,Elite,1115,ID,Indonesia,Jakarta,"Alibaba (US) Technology Co., Ltd.",8.215.25.3
+http,210.211.113.35,80,210.211.113.35:80,Elite,1126,VN,Vietnam,Ho Chi Minh City,VTDC,210.211.113.35
+http,178.92.72.73,8080,178.92.72.73:8080,Elite,1147,IN,India,Mumbai,Micro Hosting Private Limited,178.92.72.73
+http,102.244.78.61,8082,102.244.78.61:8082,Elite,1183,??,Unknown,-,-,102.244.78.57
+http,38.103.250.107,8080,38.103.250.107:8080,Elite,1185,ID,Indonesia,Kudus,PT Erajaya Telco Indonesia / Eratel /Eratelindo,38.103.250.107
+http,102.244.78.61,8089,102.244.78.61:8089,Elite,1190,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8083,102.244.78.61:8083,Elite,1191,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8090,102.244.78.61:8090,Elite,1191,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8080,102.244.78.61:8080,Elite,1194,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8084,102.244.78.61:8084,Elite,1195,??,Unknown,-,-,102.244.78.57
+http,103.184.52.66,8080,103.184.52.66:8080,Elite,1195,ID,Indonesia,Semarang,PT Milenial Inti Telekomunikasi,103.184.52.66
+http,102.244.78.61,8088,102.244.78.61:8088,Elite,1197,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8086,102.244.78.61:8086,Elite,1200,CM,Cameroon,Douala,Orange CAM INTERNET,102.244.78.57
+http,102.244.78.61,8085,102.244.78.61:8085,Elite,1201,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8081,102.244.78.61:8081,Elite,1214,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8087,102.244.78.61:8087,Elite,1222,??,Unknown,-,-,102.244.78.57
+http,103.84.231.33,8080,103.84.231.33:8080,Elite,1247,ID,Indonesia,Bandung,STARNET,103.84.231.33
+http,182.48.71.9,8080,182.48.71.9:8080,Elite,1282,BD,Bangladesh,Dhaka,Corporate Office,43.239.75.6
+http,185.241.211.232,19000,185.241.211.232:19000,Elite,1298,US,United States,New York,1337 Services GmbH,185.241.211.232
+http,45.43.60.220,8080,45.43.60.220:8080,Elite,1366,JP,Japan,Tokyo,Zenlayer Inc,45.43.60.220
+http,160.19.41.52,80,160.19.41.52:80,Elite,1430,IN,India,New Delhi,ATC INFOCOM SOLUTIONS PVT LTD,160.19.41.52
+http,160.19.19.165,3125,160.19.19.165:3125,Elite,1654,ID,Indonesia,Subang,PT Indo Telemedia Solusi,160.19.19.165
+http,38.194.246.34,999,38.194.246.34:999,Elite,1737,MX,Mexico,Los Ramírez,IENTC S de RL de CV,38.194.246.34
+http,45.194.3.132,8080,45.194.3.132:8080,Elite,1829,IN,India,Noida,CtrlS,45.194.3.132
+http,103.210.119.157,8080,103.210.119.157:8080,Elite,1866,ID,Indonesia,Karanganyar,PT Yesi Media Utama,103.210.119.157
+http,45.195.91.126,8080,45.195.91.126:8080,Elite,1916,IN,India,Noida,Real Time Data Services Private Limited,45.195.91.126
+http,103.152.148.31,8080,103.152.148.31:8080,Elite,1979,ID,Indonesia,South Jakarta,PT Satu Nusa Bangsa,103.152.148.31
+http,181.79.57.57,8080,181.79.57.57:8080,Elite,2087,CO,Colombia,Cartago,IFX Corporation,181.79.57.57
+http,112.207.166.195,8082,112.207.166.195:8082,Elite,2151,PH,Philippines,Pasig,Philippine Long Distance Telephone Co.,112.207.166.195
+http,185.225.42.134,8080,185.225.42.134:8080,Elite,2192,SY,Syria,Kafr Baţnā,sy-samaweb,185.225.42.134
+http,177.222.248.51,9191,177.222.248.51:9191,Elite,2235,BR,Brazil,Ipatinga,Vero S.A,177.222.248.50
+http,34.43.46.91,80,34.43.46.91:80,Elite,2264,US,United States,Mountain View,Google LLC,34.143.18.241
+http,119.93.87.65,8080,119.93.87.65:8080,Elite,2274,PH,Philippines,Makati City,Philippine Long Distance Telephone Co.,119.93.87.65
+http,103.172.71.202,1111,103.172.71.202:1111,Elite,2312,ID,Indonesia,Karangampel,AZNET,103.172.71.202
