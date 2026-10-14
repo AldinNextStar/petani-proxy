@@ -1,29 +1,26 @@
 protocol,ip,port,proxy,anonymity,latency_ms,country_code,country,city,isp,egress_ip
-http,67.207.92.87,3129,67.207.92.87:3129,Elite,198,US,United States,North Bergen,"DigitalOcean, LLC",67.207.92.87
-http,103.237.102.191,11111,103.237.102.191:11111,Elite,461,DE,Germany,Frankfurt am Main,Zenlayer Inc,103.237.102.191
-http,146.190.60.147,8018,146.190.60.147:8018,Elite,464,US,United States,Santa Clara,"DigitalOcean, LLC",146.190.60.147
-http,80.87.193.111,12345,80.87.193.111:12345,Elite,640,RU,Russia,Khimki,JSC IOT,80.87.193.111
-http,41.33.245.138,1976,41.33.245.138:1976,Elite,795,EG,Egypt,Cairo,TE Data,41.33.245.138
-http,82.47.161.152,8443,82.47.161.152:8443,Elite,948,TR,Turkey,Istanbul,,82.47.161.152
-http,112.216.54.226,12121,112.216.54.226:12121,Elite,1022,KR,South Korea,Yongin-si,LG DACOM Corporation,112.216.54.227
-http,108.61.29.163,10001,108.61.29.163:10001,Elite,1107,US,United States,Piscataway,The Constant Company,108.61.29.163
-http,4.144.146.21,80,4.144.146.21:80,Elite,1157,SG,Singapore,Singapore,Microsoft Corporation,20.44.210.140
-http,92.38.128.146,50080,92.38.128.146:50080,Elite,1162,RU,Russia,Khabarovsk,GCL,117.55.192.153
-http,103.124.196.218,8080,103.124.196.218:8080,Elite,1186,ID,Indonesia,Batam,PT INFORMASI NUSANTARA TEKNOLOGI,210.79.135.30
-http,144.31.146.195,8080,144.31.146.195:8080,Elite,1204,IN,India,Mumbai,Micro Hosting Private Limited,144.31.146.195
-http,203.205.49.2,10121,203.205.49.2:10121,Elite,1243,VN,Vietnam,Mai Dich,CMC Telecom Infrastructure Company,203.205.49.124
-http,36.50.56.105,8818,36.50.56.105:8818,Elite,1246,ID,Indonesia,Cibinong,PT Andromega Data Nusantara,36.50.56.104
-http,178.92.72.229,8080,178.92.72.229:8080,Elite,1249,IN,India,Mumbai,Micro Hosting Private Limited,178.92.72.229
-http,103.165.157.37,3125,103.165.157.37:3125,Elite,1300,ID,Indonesia,Purbalingga,MEGADATA-ISP,103.165.157.50
-http,154.201.126.245,8080,154.201.126.245:8080,Elite,1408,IN,India,Noida,CtrlS,154.201.126.245
-http,154.201.127.230,8080,154.201.127.230:8080,Elite,1431,IN,India,Noida,Real Time Data Services Private Limited,154.201.127.230
-http,38.75.82.220,999,38.75.82.220:999,Elite,1432,DO,Dominican Republic,Santo Domingo Este,Cogent Communications,38.75.82.210
-http,38.19.111.74,8080,38.19.111.74:8080,Elite,1616,MX,Mexico,Tehuacán,Tecnologias FEM S.a.s De C.V,38.19.111.74
-http,206.135.21.2,999,206.135.21.2:999,Elite,1737,MX,Mexico,Allende,Ientc S De RL De CV,200.39.13.149
-http,178.217.168.164,55443,178.217.168.164:55443,Elite,1942,KG,Kyrgyzstan,Bishkek,KRENA - Kyrgyz research and education network association,178.217.168.164
-http,41.33.60.42,8081,41.33.60.42:8081,Elite,2157,EG,Egypt,Cairo,TE Data,41.33.60.42
-http,103.189.116.20,8080,103.189.116.20:8080,Elite,2240,ID,Indonesia,Banyumas,PT Callysta Total Solusindo,103.189.116.20
-http,103.155.198.163,8080,103.155.198.163:8080,Elite,2246,ID,Indonesia,Cikampek,PT Lintas Jaringan Nusantara,103.155.198.163
-http,160.19.18.173,3125,160.19.18.173:3125,Elite,2329,ID,Indonesia,Comal,PT Indo Telemedia Solusi,160.19.18.173
-http,8.215.112.214,7777,8.215.112.214:7777,Elite,2383,ID,Indonesia,Jakarta,"Alibaba (US) Technology Co., Ltd.",8.215.112.214
-http,103.169.135.43,8080,103.169.135.43:8080,Elite,2464,ID,Indonesia,Ngasinan,PT Neo Santara Solusi,103.169.135.43
+http,104.129.203.85,9480,104.129.203.85:9480,Elite,245,US,United States,San Jose,"ZSCALER, INC.",104.129.203.85
+http,38.75.82.212,999,38.75.82.212:999,Elite,418,DO,Dominican Republic,Santo Domingo Este,Cogent Communications,38.75.82.210
+http,167.99.3.26,5555,167.99.3.26:5555,Elite,435,US,United States,North Bergen,"DigitalOcean, LLC",102.129.170.126
+http,34.43.46.91,443,34.43.46.91:443,Elite,447,US,United States,Mountain View,Google LLC,34.143.33.137
+http,103.237.102.191,11111,103.237.102.191:11111,Elite,634,DE,Germany,Frankfurt am Main,Zenlayer Inc,103.237.102.191
+http,154.223.77.54,10002,154.223.77.54:10002,Elite,860,??,Unknown,-,-,154.223.77.54
+http,154.223.77.54,10001,154.223.77.54:10001,Elite,871,HK,Hong Kong,Hong Kong,Kaopu Cloud HK Limited,154.223.77.54
+http,112.169.99.71,8077,112.169.99.71:8077,Elite,1113,KR,South Korea,Gangnam-gu,Korea Telecom,211.195.101.189
+http,178.92.72.194,8080,178.92.72.194:8080,Elite,1166,IN,India,Mumbai,Micro Hosting Private Limited,178.92.72.194
+http,102.244.78.61,8081,102.244.78.61:8081,Elite,1245,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8088,102.244.78.61:8088,Elite,1251,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8086,102.244.78.61:8086,Elite,1251,CM,Cameroon,Douala,Orange CAM INTERNET,102.244.78.57
+http,102.244.78.61,8089,102.244.78.61:8089,Elite,1252,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8085,102.244.78.61:8085,Elite,1253,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8083,102.244.78.61:8083,Elite,1254,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8087,102.244.78.61:8087,Elite,1255,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8084,102.244.78.61:8084,Elite,1267,??,Unknown,-,-,102.244.78.57
+http,45.195.90.142,8080,45.195.90.142:8080,Elite,1691,IN,India,Noida,Shanxi Liyun Breeding Co,45.195.90.142
+http,210.211.113.35,80,210.211.113.35:80,Elite,1705,VN,Vietnam,Ho Chi Minh City,VTDC,210.211.113.35
+http,181.209.39.90,999,181.209.39.90:999,Elite,1888,AR,Argentina,Benavídez,ARSAT - Empresa Argentina de Soluciones Satelitales S.A,181.209.39.90
+http,47.242.218.151,9001,47.242.218.151:9001,Elite,1958,HK,Hong Kong,Hong Kong,Alibaba.com LLC,47.242.218.151
+http,190.97.229.118,999,190.97.229.118:999,Elite,2021,VE,Venezuela,El Tocuyo,Viginet C.A,190.97.229.118
+http,47.242.218.151,9020,47.242.218.151:9020,Elite,2183,??,Unknown,-,-,47.242.181.198
+http,116.104.251.199,2080,116.104.251.199:2080,Elite,2431,VN,Vietnam,Hanoi,Viettel Group,58.187.26.252
+http,177.234.217.88,999,177.234.217.88:999,Elite,2498,EC,Ecuador,Quito,Ufinet Panama S.A.,177.234.217.88
