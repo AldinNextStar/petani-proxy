@@ -1,17 +1,29 @@
 protocol,ip,port,proxy,anonymity,latency_ms,country_code,country,city,isp,egress_ip
-http,104.129.203.85,9480,104.129.203.85:9480,Elite,183,US,United States,San Jose,"ZSCALER, INC.",104.129.203.85
-http,66.95.81.180,8080,66.95.81.180:8080,Elite,254,US,United States,Lanham-Seabrook,Ipxo LLC,66.95.81.180
-http,184.75.221.82,3118,184.75.221.82:3118,Elite,270,CA,Canada,Toronto,Amanah Tech Inc.,184.75.221.82
-http,103.237.102.191,11111,103.237.102.191:11111,Elite,653,DE,Germany,Frankfurt am Main,Zenlayer Inc,103.237.102.191
-http,45.125.64.215,443,45.125.64.215:443,Elite,920,HK,Hong Kong,Fanling,Tele Asia Limited,45.125.64.215
-http,43.156.66.78,12345,43.156.66.78:12345,Elite,978,SG,Singapore,Singapore,Shenzhen Tencent Computer Systems Company Limited,43.156.66.78
-http,210.211.113.33,80,210.211.113.33:80,Elite,1053,VN,Vietnam,Ho Chi Minh City,VTDC,210.211.113.33
-http,8.215.25.3,2081,8.215.25.3:2081,Elite,1082,ID,Indonesia,Jakarta,"Alibaba (US) Technology Co., Ltd.",8.215.25.3
-http,102.244.78.61,8085,102.244.78.61:8085,Elite,1259,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8087,102.244.78.61:8087,Elite,1267,CM,Cameroon,Douala,Orange CAM INTERNET,102.244.78.57
-http,102.244.78.61,8088,102.244.78.61:8088,Elite,1303,??,Unknown,-,-,102.244.78.57
-http,47.237.12.129,8080,47.237.12.129:8080,Elite,1552,SG,Singapore,Singapore,"Alibaba (US) Technology Co., Ltd.",47.237.12.129
-http,45.194.90.194,8080,45.194.90.194:8080,Elite,1586,IN,India,Noida,Shanxi Liyun Breeding Co,45.194.90.194
-http,8.219.97.248,80,8.219.97.248:80,Elite,1614,SG,Singapore,Singapore,Alibaba Cloud (Singapore) Private Limited,8.219.64.236
-http,1.20.101.32,8080,1.20.101.32:8080,Elite,2165,TH,Thailand,Chon Buri,TOT Public Company Limited,1.20.101.32
-http,206.135.47.110,999,206.135.47.110:999,Elite,2185,MX,Mexico,Puebla City,Ientc S De RL De CV,206.135.47.106
+http,103.237.102.191,11111,103.237.102.191:11111,Elite,599,DE,Germany,Frankfurt am Main,Zenlayer Inc,103.237.102.191
+http,209.250.249.155,9000,209.250.249.155:9000,Elite,628,NL,The Netherlands,Amsterdam,"The Constant Company, LLC",181.214.206.77
+http,47.237.12.129,8080,47.237.12.129:8080,Elite,1049,SG,Singapore,Singapore,"Alibaba (US) Technology Co., Ltd.",47.237.12.129
+http,34.43.46.91,443,34.43.46.91:443,Elite,1054,US,United States,Mountain View,Google LLC,34.143.33.137
+http,178.92.72.129,8080,178.92.72.129:8080,Elite,1063,IN,India,Mumbai,Micro Hosting Private Limited,178.92.72.129
+http,4.144.146.21,80,4.144.146.21:80,Elite,1069,SG,Singapore,Singapore,Microsoft Corporation,20.44.210.140
+http,178.92.72.162,8080,178.92.72.162:8080,Elite,1075,IN,India,Mumbai,Micro Hosting Private Limited,178.92.72.162
+http,45.125.64.215,443,45.125.64.215:443,Elite,1085,HK,Hong Kong,Fanling,Tele Asia Limited,45.125.64.215
+http,190.43.92.94,999,190.43.92.94:999,Elite,1146,PE,Peru,Lima,Telefonica Del Peru,190.43.92.94
+http,102.244.78.61,8082,102.244.78.61:8082,Elite,1221,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8089,102.244.78.61:8089,Elite,1226,??,Unknown,-,-,102.244.78.57
+http,186.190.211.67,80,186.190.211.67:80,Elite,1242,GB,United Kingdom,London,GTHost,186.190.211.67
+http,144.31.146.190,8080,144.31.146.190:8080,Elite,1256,IN,India,Mumbai,Micro Hosting Private Limited,144.31.146.190
+http,102.244.78.61,8090,102.244.78.61:8090,Elite,1267,CM,Cameroon,Douala,Orange CAM INTERNET,102.244.78.57
+http,102.244.78.61,8085,102.244.78.61:8085,Elite,1293,??,Unknown,-,-,102.244.78.57
+http,217.182.195.221,30006,217.182.195.221:30006,Elite,1322,FR,France,Roubaix,OVH SAS,23.129.64.135
+http,149.2.83.204,999,149.2.83.204:999,Elite,1333,DO,Dominican Republic,Santo Domingo,"TELECABLE DOMINICANO, S.A.",149.2.83.204
+http,45.195.91.105,8080,45.195.91.105:8080,Elite,1495,IN,India,Noida,Real Time Data Services Private Limited,45.195.91.105
+http,154.201.127.230,8080,154.201.127.230:8080,Elite,1499,IN,India,Noida,Real Time Data Services Private Limited,154.201.127.230
+http,41.216.186.231,8080,41.216.186.231:8080,Elite,1810,ID,Indonesia,South Jakarta,FASTHOSTING,82.158.132.21
+http,38.76.138.46,999,38.76.138.46:999,Elite,1930,VE,Venezuela,Caracas,CORPORACIÓN GALA IT C.A,38.76.138.46
+http,193.42.112.26,8080,193.42.112.26:8080,Elite,1988,EE,Estonia,Kuusalu,HexCore cloud s.r.o.,193.42.112.26
+http,34.43.46.91,80,34.43.46.91:80,Elite,2012,??,Unknown,-,-,35.235.153.76
+http,192.133.66.174,8081,192.133.66.174:8081,Elite,2020,PH,Philippines,Capas,1race ICT Inc.,192.133.66.174
+http,20.33.10.79,80,20.33.10.79:80,Elite,2146,ZA,South Africa,Johannesburg,Microsoft Corporation,20.33.10.79
+http,103.158.210.80,8082,103.158.210.80:8082,Elite,2288,ID,Indonesia,Babat,DIGITNET,103.158.210.80
+http,38.7.195.52,999,38.7.195.52:999,Elite,2299,CL,Chile,Santiago,Grupo ZGH SpA,151.241.85.26
+http,112.201.188.87,8080,112.201.188.87:8080,Elite,2357,PH,Philippines,Taytay,Philippine Long Distance Telephone Co.,112.201.188.87
