@@ -1,28 +1,20 @@
 protocol,ip,port,proxy,anonymity,latency_ms,country_code,country,city,isp,egress_ip
-http,146.190.60.147,8008,146.190.60.147:8008,Elite,239,??,Unknown,-,-,146.190.60.147
-http,146.190.60.147,8010,146.190.60.147:8010,Elite,366,US,United States,Santa Clara,"DigitalOcean, LLC",146.190.60.147
-http,165.154.162.73,8888,165.154.162.73:8888,Elite,470,US,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,165.154.162.73
-http,145.220.227.187,8080,145.220.227.187:8080,Elite,544,NL,The Netherlands,Utrecht,SURFnet III d,145.220.183.23
-http,181.78.195.137,999,181.78.195.137:999,Elite,627,EC,Ecuador,Guayaquil,Ufinet Panama S.A.,205.235.1.33
-http,34.43.46.91,443,34.43.46.91:443,Elite,691,??,Unknown,-,-,35.235.153.76
-http,91.107.247.193,7001,91.107.247.193:7001,Elite,695,DE,Germany,Frankfurt Am Main,Hetzner Online AG,91.107.247.193
-http,34.43.46.91,80,34.43.46.91:80,Elite,865,US,United States,Mountain View,Google LLC,34.143.51.195
-http,103.237.102.191,11111,103.237.102.191:11111,Elite,929,DE,Germany,Frankfurt am Main,Zenlayer Inc,103.237.102.191
-http,178.92.72.194,8080,178.92.72.194:8080,Elite,1044,IN,India,Mumbai,Micro Hosting Private Limited,178.92.72.194
-http,112.169.99.71,8072,112.169.99.71:8072,Elite,1128,??,Unknown,-,-,220.88.8.214
-http,102.244.78.61,8083,102.244.78.61:8083,Elite,1226,CM,Cameroon,Douala,Orange CAM INTERNET,102.244.78.57
-http,206.135.47.107,999,206.135.47.107:999,Elite,1258,MX,Mexico,Puebla City,Ientc S De RL De CV,206.135.47.106
-http,102.244.78.61,8086,102.244.78.61:8086,Elite,1261,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8084,102.244.78.61:8084,Elite,1263,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8081,102.244.78.61:8081,Elite,1264,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8082,102.244.78.61:8082,Elite,1323,??,Unknown,-,-,102.244.78.57
-http,27.147.153.179,9249,27.147.153.179:9249,Elite,1340,BD,Bangladesh,Dhaka,Link3 Technologies Limited,27.147.153.179
-http,103.184.62.20,8080,103.184.62.20:8080,Elite,1506,ID,Indonesia,Bajo,PT NKNET Data Media,179.65.205.169
-http,102.244.78.61,8085,102.244.78.61:8085,Elite,1516,??,Unknown,-,-,102.244.78.57
-http,103.27.177.185,808,103.27.177.185:808,Elite,1569,HK,Hong Kong,Mong Kok,"HONG KONG KOWLOON TELECOMMUNICATIONS CO., LIMITED",103.27.177.185
-http,185.205.210.154,8102,185.205.210.154:8102,Elite,1744,BG,Bulgaria,Sofia,Belcloud LTD,5.254.60.195
-http,145.220.227.24,8080,145.220.227.24:8080,Elite,1943,NL,The Netherlands,Utrecht,SURFnet III d,145.220.183.23
-http,147.15.126.122,28080,147.15.126.122:28080,Elite,1951,BR,Brazil,São Paulo,Oracle Corporation,147.15.126.122
-http,186.148.182.106,999,186.148.182.106:999,Elite,2024,CO,Colombia,Bogotá,TV AZTECA SUCURSAL COLOMBIA,186.148.182.106
-http,112.169.99.71,8059,112.169.99.71:8059,Elite,2025,KR,South Korea,Gangnam-gu,Korea Telecom,210.104.87.125
-http,116.104.251.199,2081,116.104.251.199:2081,Elite,2131,VN,Vietnam,Hanoi,Viettel Group,27.73.210.174
+http,47.254.36.25,11080,47.254.36.25:11080,Elite,218,US,United States,Minkler,Alibaba Cloud LLC,47.254.36.25
+http,165.154.162.73,8888,165.154.162.73:8888,Elite,225,US,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,165.154.162.73
+http,103.237.102.191,11111,103.237.102.191:11111,Elite,721,DE,Germany,Frankfurt am Main,Zenlayer Inc,103.237.102.191
+http,4.144.146.21,80,4.144.146.21:80,Elite,890,SG,Singapore,Singapore,Microsoft Corporation,20.44.210.140
+http,45.125.64.215,443,45.125.64.215:443,Elite,944,HK,Hong Kong,Fanling,Tele Asia Limited,45.125.64.215
+http,112.169.99.71,8059,112.169.99.71:8059,Elite,1008,??,Unknown,-,-,210.104.87.125
+http,46.101.148.225,10000,46.101.148.225:10000,Elite,1095,DE,Germany,Frankfurt am Main,"DigitalOcean, LLC",46.101.148.225
+http,188.132.150.249,8080,188.132.150.249:8080,Elite,1154,TR,Turkey,Kilis,High Speed For Internet Services L.L.C,188.132.150.249
+http,91.107.247.193,7001,91.107.247.193:7001,Elite,1275,DE,Germany,Frankfurt Am Main,Hetzner Online AG,91.107.247.193
+http,102.244.78.61,8083,102.244.78.61:8083,Elite,1324,CM,Cameroon,Douala,Orange CAM INTERNET,102.244.78.57
+http,102.244.78.61,8081,102.244.78.61:8081,Elite,1329,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8086,102.244.78.61:8086,Elite,1338,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8082,102.244.78.61:8082,Elite,1360,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8090,102.244.78.61:8090,Elite,1379,??,Unknown,-,-,102.244.78.57
+http,112.169.99.71,8063,112.169.99.71:8063,Elite,1475,KR,South Korea,Gangnam-gu,Korea Telecom,222.117.80.129
+http,8.215.112.240,7777,8.215.112.240:7777,Elite,1749,ID,Indonesia,Jakarta,"Alibaba (US) Technology Co., Ltd.",8.215.112.240
+http,38.7.195.52,999,38.7.195.52:999,Elite,2151,CL,Chile,Santiago,Grupo ZGH SpA,151.241.85.26
+http,102.244.78.61,8089,102.244.78.61:8089,Elite,2389,??,Unknown,-,-,102.244.78.57
+http,34.43.46.91,443,34.43.46.91:443,Elite,2494,US,United States,Mountain View,Google LLC,34.143.51.195
