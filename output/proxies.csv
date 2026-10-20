@@ -1,14 +1,16 @@
 protocol,ip,port,proxy,anonymity,latency_ms,country_code,country,city,isp,egress_ip
-http,184.75.221.82,3118,184.75.221.82:3118,Elite,140,CA,Canada,Toronto,Amanah Tech Inc.,184.75.221.82
-http,34.43.46.91,443,34.43.46.91:443,Elite,524,US,United States,Mountain View,Google LLC,34.143.43.175
-http,103.237.102.191,11111,103.237.102.191:11111,Elite,627,DE,Germany,Frankfurt am Main,Zenlayer Inc,103.237.102.191
-http,165.154.7.156,8888,165.154.7.156:8888,Elite,960,HK,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,165.154.7.156
-http,107.149.30.29,80,107.149.30.29:80,Elite,1030,CA,Canada,Newmarket,WawaCloud Inc.,107.149.30.29
-http,4.144.146.21,80,4.144.146.21:80,Elite,1069,SG,Singapore,Singapore,Microsoft Corporation,20.44.210.140
-http,102.244.78.61,8082,102.244.78.61:8082,Elite,1221,CM,Cameroon,Douala,Orange CAM INTERNET,102.244.78.57
-http,45.194.46.57,8080,45.194.46.57:8080,Elite,1376,IN,India,Noida,CtrlS,45.194.46.57
-http,165.154.162.73,8888,165.154.162.73:8888,Elite,1608,US,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,165.154.162.73
-http,8.216.40.169,7890,8.216.40.169:7890,Elite,1661,JP,Japan,Tokyo,"Alibaba (US) Technology Co., Ltd.",8.216.40.169
-http,177.234.217.235,999,177.234.217.235:999,Elite,1732,EC,Ecuador,Quito,Ufinet Panama S.A.,177.234.217.88
-http,138.121.113.179,999,138.121.113.179:999,Elite,2261,AR,Argentina,Formosa,Refsa Telecomunicaciones,138.121.113.179
-http,194.87.197.21,8080,194.87.197.21:8080,Elite,2367,RU,Russia,St Petersburg,LLC Baxet,89.105.219.180
+http,184.75.221.82,3118,184.75.221.82:3118,Elite,99,CA,Canada,Toronto,Amanah Tech Inc.,184.75.221.82
+http,103.237.102.191,11111,103.237.102.191:11111,Elite,476,DE,Germany,Frankfurt am Main,Zenlayer Inc,103.237.102.191
+http,38.248.80.21,999,38.248.80.21:999,Elite,922,DO,Dominican Republic,La Romana,Cogent Communications,38.248.80.19
+http,4.144.146.21,80,4.144.146.21:80,Elite,1124,SG,Singapore,Singapore,Microsoft Corporation,20.44.210.140
+http,45.125.64.215,443,45.125.64.215:443,Elite,1130,HK,Hong Kong,Fanling,Tele Asia Limited,45.125.64.215
+http,45.195.105.20,8080,45.195.105.20:8080,Elite,1178,IN,India,Mumbai,Real Time Data Services Private Limited,45.195.105.20
+http,34.43.46.91,443,34.43.46.91:443,Elite,1218,??,Unknown,-,-,34.143.51.195
+http,179.60.189.81,999,179.60.189.81:999,Elite,1459,EC,Ecuador,Quito,Eliana Vanessa Morocho Oña,179.60.189.81
+http,34.43.46.91,80,34.43.46.91:80,Elite,1505,US,United States,Mountain View,Google LLC,34.143.51.195
+http,38.188.99.66,999,38.188.99.66:999,Elite,1529,VE,Venezuela,Caracas,Inversiones Smartbyte C.A,38.188.99.64
+http,45.195.90.142,8080,45.195.90.142:8080,Elite,1565,IN,India,Noida,Shanxi Liyun Breeding Co,45.195.90.142
+http,165.154.162.73,8888,165.154.162.73:8888,Elite,1593,US,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,165.154.162.73
+http,186.97.236.99,8080,186.97.236.99:8080,Elite,1762,CO,Colombia,Medellín,EPM Telecomunicaciones S.A. E.S.P.,186.97.236.99
+http,75.148.159.121,8080,75.148.159.121:8080,Elite,2205,US,United States,Houston,Comcast Cable Communications,75.148.159.121
+http,38.19.106.44,999,38.19.106.44:999,Elite,2218,MX,Mexico,Progreso de Obregón,Hulux Telecomunicaciones,38.19.106.38
