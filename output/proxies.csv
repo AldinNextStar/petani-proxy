@@ -1,15 +1,17 @@
 protocol,ip,port,proxy,anonymity,latency_ms,country_code,country,city,isp,egress_ip
-http,103.237.102.191,11111,103.237.102.191:11111,Elite,643,DE,Germany,Frankfurt am Main,Zenlayer Inc,103.237.102.191
-http,112.216.54.226,12121,112.216.54.226:12121,Elite,948,KR,South Korea,Yongin-si,LG DACOM Corporation,112.216.54.227
-http,45.65.224.125,999,45.65.224.125:999,Elite,985,AR,Argentina,Buenos Aires,Solution LAN S.A,45.65.224.125
-http,4.144.146.21,80,4.144.146.21:80,Elite,1038,SG,Singapore,Singapore,Microsoft Corporation,20.44.210.140
-http,166.1.90.109,7890,166.1.90.109:7890,Elite,1040,US,United States,Dover,OVH SAS,140.188.129.199
-http,45.125.64.215,443,45.125.64.215:443,Elite,1104,HK,Hong Kong,Fanling,Tele Asia Limited,45.125.64.215
-http,165.154.162.73,8888,165.154.162.73:8888,Elite,1188,US,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,165.154.162.73
-http,115.236.37.105,2411,115.236.37.105:2411,Elite,1955,CN,China,Hangzhou,Chinanet,128.1.201.68
-http,206.135.47.106,999,206.135.47.106:999,Elite,2130,MX,Mexico,Puebla City,Ientc S De RL De CV,206.135.47.106
-http,149.210.7.33,18080,149.210.7.33:18080,Elite,2215,GR,Greece,Athens,Cosmote Mobile Telecommunication S.A.,149.210.7.33
-http,187.190.114.59,999,187.190.114.59:999,Elite,2237,MX,Mexico,Plan del Palmar,"TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.",187.190.114.59
-http,85.117.61.111,8080,85.117.61.111:8080,Elite,2395,GE,Georgia,Tbilisi,Caucasus Online Ltd.,85.117.61.108
-http,8.215.25.3,2081,8.215.25.3:2081,Elite,2465,ID,Indonesia,Jakarta,"Alibaba (US) Technology Co., Ltd.",8.215.25.3
-http,58.69.124.137,8080,58.69.124.137:8080,Elite,2483,PH,Philippines,Antipolo City,Philippine Long Distance Telephone Co.,58.69.124.137
+http,184.75.221.82,3118,184.75.221.82:3118,Elite,240,CA,Canada,Toronto,Amanah Tech Inc.,184.75.221.82
+http,34.43.46.91,80,34.43.46.91:80,Elite,489,US,United States,Mountain View,Google LLC,34.143.51.195
+http,103.237.102.191,11111,103.237.102.191:11111,Elite,581,DE,Germany,Frankfurt am Main,Zenlayer Inc,103.237.102.191
+http,103.192.80.81,3129,103.192.80.81:3129,Elite,922,AU,Australia,Melbourne,Host Universal Pty Ltd,103.192.80.81
+http,45.125.64.215,443,45.125.64.215:443,Elite,965,HK,Hong Kong,Fanling,Tele Asia Limited,45.125.64.215
+http,4.144.146.21,80,4.144.146.21:80,Elite,1047,SG,Singapore,Singapore,Microsoft Corporation,20.44.210.140
+http,154.201.126.44,8080,154.201.126.44:8080,Elite,1324,IN,India,Noida,CtrlS,154.201.126.44
+http,45.194.46.57,8080,45.194.46.57:8080,Elite,1363,IN,India,Noida,CtrlS,45.194.46.57
+http,41.216.191.154,8080,41.216.191.154:8080,Elite,1461,ID,Indonesia,South Jakarta,Perwira,103.86.116.38
+http,170.246.36.225,999,170.246.36.225:999,Elite,1549,AR,Argentina,Caleta Olivia,Carrasco Leonardo Javier,170.246.36.225
+http,45.65.226.169,999,45.65.226.169:999,Elite,1595,AR,Argentina,Buenos Aires,Solution LAN S.A,45.65.226.169
+http,38.7.195.51,999,38.7.195.51:999,Elite,1754,CL,Chile,Santiago,Grupo ZGH SpA,151.241.85.26
+http,176.97.210.116,1010,176.97.210.116:1010,Elite,1775,DE,Germany,Frankfurt am Main,Ferdinand Zink trading as Tube-Hosting,176.97.210.116
+http,201.159.111.137,8081,201.159.111.137:8081,Elite,2199,MX,Mexico,General Escobedo,Administradora de Servicios de Internet Sandur S.A. de C.V.,201.159.98.32
+http,191.44.91.59,8080,191.44.91.59:8080,Elite,2282,FR,France,Paris,High Speed For Internet Services L.L.C,194.124.36.30
+http,38.41.0.87,999,38.41.0.87:999,Elite,2498,VE,Venezuela,Caracas,MDS TELECOM C.A.,38.191.42.58
