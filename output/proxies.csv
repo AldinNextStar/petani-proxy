@@ -1,17 +1,21 @@
 protocol,ip,port,proxy,anonymity,latency_ms,country_code,country,city,isp,egress_ip
-http,184.75.221.82,3118,184.75.221.82:3118,Elite,240,CA,Canada,Toronto,Amanah Tech Inc.,184.75.221.82
-http,34.43.46.91,80,34.43.46.91:80,Elite,489,US,United States,Mountain View,Google LLC,34.143.51.195
-http,103.237.102.191,11111,103.237.102.191:11111,Elite,581,DE,Germany,Frankfurt am Main,Zenlayer Inc,103.237.102.191
-http,103.192.80.81,3129,103.192.80.81:3129,Elite,922,AU,Australia,Melbourne,Host Universal Pty Ltd,103.192.80.81
-http,45.125.64.215,443,45.125.64.215:443,Elite,965,HK,Hong Kong,Fanling,Tele Asia Limited,45.125.64.215
-http,4.144.146.21,80,4.144.146.21:80,Elite,1047,SG,Singapore,Singapore,Microsoft Corporation,20.44.210.140
-http,154.201.126.44,8080,154.201.126.44:8080,Elite,1324,IN,India,Noida,CtrlS,154.201.126.44
-http,45.194.46.57,8080,45.194.46.57:8080,Elite,1363,IN,India,Noida,CtrlS,45.194.46.57
-http,41.216.191.154,8080,41.216.191.154:8080,Elite,1461,ID,Indonesia,South Jakarta,Perwira,103.86.116.38
-http,170.246.36.225,999,170.246.36.225:999,Elite,1549,AR,Argentina,Caleta Olivia,Carrasco Leonardo Javier,170.246.36.225
-http,45.65.226.169,999,45.65.226.169:999,Elite,1595,AR,Argentina,Buenos Aires,Solution LAN S.A,45.65.226.169
-http,38.7.195.51,999,38.7.195.51:999,Elite,1754,CL,Chile,Santiago,Grupo ZGH SpA,151.241.85.26
-http,176.97.210.116,1010,176.97.210.116:1010,Elite,1775,DE,Germany,Frankfurt am Main,Ferdinand Zink trading as Tube-Hosting,176.97.210.116
-http,201.159.111.137,8081,201.159.111.137:8081,Elite,2199,MX,Mexico,General Escobedo,Administradora de Servicios de Internet Sandur S.A. de C.V.,201.159.98.32
-http,191.44.91.59,8080,191.44.91.59:8080,Elite,2282,FR,France,Paris,High Speed For Internet Services L.L.C,194.124.36.30
-http,38.41.0.87,999,38.41.0.87:999,Elite,2498,VE,Venezuela,Caracas,MDS TELECOM C.A.,38.191.42.58
+http,184.75.221.82,3118,184.75.221.82:3118,Elite,98,CA,Canada,Toronto,Amanah Tech Inc.,184.75.221.82
+http,146.190.60.147,8010,146.190.60.147:8010,Elite,346,US,United States,Santa Clara,"DigitalOcean, LLC",146.190.60.147
+http,103.237.102.191,11111,103.237.102.191:11111,Elite,485,DE,Germany,Frankfurt am Main,Zenlayer Inc,103.237.102.191
+http,195.154.191.26,1092,195.154.191.26:1092,Elite,595,FR,France,Paris,Scaleway SAS,82.108.118.125
+http,5.104.81.203,8080,5.104.81.203:8080,Elite,888,FR,France,Marseille,Contabo Asia Private Limited,5.104.81.203
+http,217.219.83.186,2222,217.219.83.186:2222,Elite,1029,IR,Iran,Tehran,Iran Telecommunication Company PJS,217.219.83.186
+http,45.125.64.215,443,45.125.64.215:443,Elite,1101,HK,Hong Kong,Fanling,Tele Asia Limited,45.125.64.215
+http,102.244.78.61,8082,102.244.78.61:8082,Elite,1118,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8087,102.244.78.61:8087,Elite,1118,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8085,102.244.78.61:8085,Elite,1118,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8081,102.244.78.61:8081,Elite,1118,CM,Cameroon,Douala,Orange CAM INTERNET,102.244.78.57
+http,102.244.78.61,8084,102.244.78.61:8084,Elite,1120,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8086,102.244.78.61:8086,Elite,1120,??,Unknown,-,-,102.244.78.57
+http,4.144.146.21,80,4.144.146.21:80,Elite,1146,SG,Singapore,Singapore,Microsoft Corporation,20.44.210.140
+http,112.169.99.71,8051,112.169.99.71:8051,Elite,1471,KR,South Korea,Gangnam-gu,Korea Telecom,119.195.224.2
+http,194.87.197.21,8080,194.87.197.21:8080,Elite,1557,RU,Russia,St Petersburg,LLC Baxet,89.105.219.180
+http,126.209.105.226,5050,126.209.105.226:5050,Elite,1682,PH,Philippines,Manila,Infinivan Incorporated,126.209.105.226
+http,38.75.82.216,999,38.75.82.216:999,Elite,1821,DO,Dominican Republic,Santo Domingo Este,Cogent Communications,38.75.82.210
+http,103.51.205.94,8080,103.51.205.94:8080,Elite,2286,ID,Indonesia,Karanganyar,"Lintas Data Prima, PT",103.51.205.94
+http,103.187.162.221,8282,103.187.162.221:8282,Elite,2300,ID,Indonesia,Tangerang,PT MISQOT SEJAHTERA INDONESIA,103.187.162.2
