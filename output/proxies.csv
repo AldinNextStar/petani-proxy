@@ -1,19 +1,15 @@
 protocol,ip,port,proxy,anonymity,latency_ms,country_code,country,city,isp,egress_ip
-http,184.75.221.82,3118,184.75.221.82:3118,Elite,225,CA,Canada,Toronto,Amanah Tech Inc.,184.75.221.82
-http,103.237.102.191,11111,103.237.102.191:11111,Elite,573,DE,Germany,Frankfurt am Main,Zenlayer Inc,103.237.102.191
-http,186.67.94.10,999,186.67.94.10:999,Elite,716,CL,Chile,Santiago,Entel Chile S.A.,186.67.94.10
-http,112.216.54.226,12121,112.216.54.226:12121,Elite,898,KR,South Korea,Yongin-si,LG DACOM Corporation,112.216.54.227
-http,45.43.60.220,8080,45.43.60.220:8080,Elite,899,JP,Japan,Tokyo,Zenlayer Inc,45.43.60.220
-http,43.156.66.78,12345,43.156.66.78:12345,Elite,1031,SG,Singapore,Singapore,Shenzhen Tencent Computer Systems Company Limited,43.156.66.78
-http,4.144.146.21,80,4.144.146.21:80,Elite,1045,SG,Singapore,Singapore,Microsoft Corporation,20.44.210.140
-http,102.244.78.61,8089,102.244.78.61:8089,Elite,1170,CM,Cameroon,Douala,Orange CAM INTERNET,102.244.78.57
-http,34.43.46.91,443,34.43.46.91:443,Elite,1176,US,United States,Mountain View,Google LLC,34.143.51.195
-http,102.244.78.61,8087,102.244.78.61:8087,Elite,1178,??,Unknown,-,-,102.244.78.57
-http,157.15.62.74,8080,157.15.62.74:8080,Elite,1217,ID,Indonesia,Malang,AMAN ISP Customer Malang,157.15.62.74
-http,190.12.150.244,999,190.12.150.244:999,Elite,1300,EC,Ecuador,Quininde,Servitelconet Cia. Ltda.,190.12.150.244
-http,165.154.162.73,8888,165.154.162.73:8888,Elite,1395,US,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,165.154.162.73
-http,177.234.217.85,999,177.234.217.85:999,Elite,1466,EC,Ecuador,Quito,Ufinet Panama S.A.,177.234.217.82
-http,34.43.46.91,80,34.43.46.91:80,Elite,1593,??,Unknown,-,-,34.143.51.195
-http,190.97.229.118,999,190.97.229.118:999,Elite,1657,VE,Venezuela,El Tocuyo,Viginet C.A,190.97.229.118
-http,45.65.226.174,999,45.65.226.174:999,Elite,1889,AR,Argentina,Buenos Aires,Solution LAN S.A,45.65.226.169
-http,77.95.2.9,8080,77.95.2.9:8080,Elite,1987,TJ,Tajikistan,Dushanbe,Tajik Academic Research Educational Networks Association,77.95.2.9
+http,184.75.221.82,3118,184.75.221.82:3118,Elite,179,CA,Canada,Toronto,Amanah Tech Inc.,184.75.221.82
+http,34.43.46.91,443,34.43.46.91:443,Elite,236,??,Unknown,-,-,34.143.43.175
+http,34.43.46.91,80,34.43.46.91:80,Elite,297,US,United States,Mountain View,Google LLC,34.143.51.195
+http,201.79.50.139,10000,201.79.50.139:10000,Elite,394,BR,Brazil,Salvador,DigitalOcean,201.79.50.139
+http,103.237.102.191,11111,103.237.102.191:11111,Elite,645,DE,Germany,Frankfurt am Main,Zenlayer Inc,103.237.102.191
+http,38.58.117.185,80,38.58.117.185:80,Elite,1060,ID,Indonesia,Batam,PT Lintas Jaringan Nusantara,38.58.117.185
+http,4.144.146.21,80,4.144.146.21:80,Elite,1084,SG,Singapore,Singapore,Microsoft Corporation,20.44.210.140
+http,201.7.31.163,8080,201.7.31.163:8080,Elite,1089,TR,Turkey,Istanbul,High Speed For Internet Services L.L.C,201.7.31.163
+http,102.244.78.61,8089,102.244.78.61:8089,Elite,1241,CM,Cameroon,Douala,Orange CAM INTERNET,102.244.78.57
+http,151.243.153.157,8118,151.243.153.157:8118,Elite,1243,US,United States,Seattle,Black Apple,151.243.153.157
+http,45.125.64.215,443,45.125.64.215:443,Elite,1753,HK,Hong Kong,Fanling,Tele Asia Limited,45.125.64.215
+http,118.71.233.85,2076,118.71.233.85:2076,Elite,1987,VN,Vietnam,Hanoi,Vietnam Internet Network Information Center,42.115.72.47
+http,170.246.36.225,999,170.246.36.225:999,Elite,2052,AR,Argentina,Caleta Olivia,Carrasco Leonardo Javier,170.246.36.225
+http,77.95.2.9,8080,77.95.2.9:8080,Elite,2084,TJ,Tajikistan,Dushanbe,Tajik Academic Research Educational Networks Association,77.95.2.9
