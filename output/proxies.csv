@@ -1,15 +1,28 @@
 protocol,ip,port,proxy,anonymity,latency_ms,country_code,country,city,isp,egress_ip
-http,184.75.221.82,3118,184.75.221.82:3118,Elite,179,CA,Canada,Toronto,Amanah Tech Inc.,184.75.221.82
-http,34.43.46.91,443,34.43.46.91:443,Elite,236,??,Unknown,-,-,34.143.43.175
-http,34.43.46.91,80,34.43.46.91:80,Elite,297,US,United States,Mountain View,Google LLC,34.143.51.195
-http,201.79.50.139,10000,201.79.50.139:10000,Elite,394,BR,Brazil,Salvador,DigitalOcean,201.79.50.139
-http,103.237.102.191,11111,103.237.102.191:11111,Elite,645,DE,Germany,Frankfurt am Main,Zenlayer Inc,103.237.102.191
-http,38.58.117.185,80,38.58.117.185:80,Elite,1060,ID,Indonesia,Batam,PT Lintas Jaringan Nusantara,38.58.117.185
-http,4.144.146.21,80,4.144.146.21:80,Elite,1084,SG,Singapore,Singapore,Microsoft Corporation,20.44.210.140
-http,201.7.31.163,8080,201.7.31.163:8080,Elite,1089,TR,Turkey,Istanbul,High Speed For Internet Services L.L.C,201.7.31.163
-http,102.244.78.61,8089,102.244.78.61:8089,Elite,1241,CM,Cameroon,Douala,Orange CAM INTERNET,102.244.78.57
-http,151.243.153.157,8118,151.243.153.157:8118,Elite,1243,US,United States,Seattle,Black Apple,151.243.153.157
-http,45.125.64.215,443,45.125.64.215:443,Elite,1753,HK,Hong Kong,Fanling,Tele Asia Limited,45.125.64.215
-http,118.71.233.85,2076,118.71.233.85:2076,Elite,1987,VN,Vietnam,Hanoi,Vietnam Internet Network Information Center,42.115.72.47
-http,170.246.36.225,999,170.246.36.225:999,Elite,2052,AR,Argentina,Caleta Olivia,Carrasco Leonardo Javier,170.246.36.225
-http,77.95.2.9,8080,77.95.2.9:8080,Elite,2084,TJ,Tajikistan,Dushanbe,Tajik Academic Research Educational Networks Association,77.95.2.9
+http,184.75.221.82,3118,184.75.221.82:3118,Elite,93,CA,Canada,Toronto,Amanah Tech Inc.,184.75.221.82
+http,34.43.46.91,80,34.43.46.91:80,Elite,233,??,Unknown,-,-,34.143.56.137
+http,34.43.46.91,443,34.43.46.91:443,Elite,243,US,United States,Mountain View,Google LLC,34.143.43.175
+http,103.237.102.191,11111,103.237.102.191:11111,Elite,478,DE,Germany,Frankfurt am Main,Zenlayer Inc,103.237.102.191
+http,187.108.238.122,8080,187.108.238.122:8080,Elite,595,BR,Brazil,São Paulo,Ufinet Brasil S.A.,187.108.238.122
+http,191.195.51.243,8080,191.195.51.243:8080,Elite,804,BR,Brazil,Salvador,Vivo,191.195.51.243
+http,78.187.157.235,8080,78.187.157.235:8080,Elite,925,TR,Turkey,Adana,Turk Telekomunikasyon A.S,78.187.157.235
+http,45.175.163.58,999,45.175.163.58:999,Elite,926,AR,Argentina,Mendoza,Redes Del Oeste S.A,45.175.163.58
+http,45.125.64.215,443,45.125.64.215:443,Elite,1082,HK,Hong Kong,Fanling,Tele Asia Limited,45.125.64.215
+http,4.144.146.21,80,4.144.146.21:80,Elite,1141,SG,Singapore,Singapore,Microsoft Corporation,20.44.210.140
+http,103.163.111.74,8000,103.163.111.74:8000,Elite,1238,ID,Indonesia,Tasikmalaya,PT Galunggung Access Solutions,103.163.111.74
+http,103.38.104.214,8087,103.38.104.214:8087,Elite,1285,ID,Indonesia,Wonosobo,PT Tunas Media Data,103.38.104.214
+http,105.156.177.237,30001,105.156.177.237:30001,Elite,1302,MA,Morocco,Nador,ADSL Maroc telecom,160.179.139.176
+http,180.191.121.151,8080,180.191.121.151:8080,Elite,1306,PH,Philippines,Cagayan de Oro,Globe Telecom,222.127.220.173
+http,103.175.237.232,8080,103.175.237.232:8080,Elite,1315,ID,Indonesia,Kanigorokrajan,PT Marva Global Telekomunikasi,103.175.237.232
+http,1.2.248.41,80,1.2.248.41:80,Elite,1329,??,Unknown,-,-,1.2.248.41
+http,105.156.190.222,30001,105.156.190.222:30001,Elite,1468,MA,Morocco,Nador,ADSL Maroc telecom,160.179.139.176
+http,42.117.232.131,8080,42.117.232.131:8080,Elite,1527,VN,Vietnam,Ho Chi Minh City,FPT Telecom Company,42.117.232.131
+http,43.224.188.142,8080,43.224.188.142:8080,Elite,1575,PH,Philippines,Cabuyao,Responsible Internet Sustainability Effort,43.224.188.142
+http,160.19.19.122,8090,160.19.19.122:8090,Elite,1711,ID,Indonesia,Subang,PT Indo Telemedia Solusi,160.19.19.122
+http,77.95.2.9,8080,77.95.2.9:8080,Elite,1769,TJ,Tajikistan,Dushanbe,Tajik Academic Research Educational Networks Association,77.95.2.9
+http,165.154.162.73,8888,165.154.162.73:8888,Elite,1834,US,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,165.154.162.73
+http,177.234.217.83,999,177.234.217.83:999,Elite,1845,EC,Ecuador,Quito,Ufinet Panama S.A.,177.234.217.82
+http,20.33.10.79,80,20.33.10.79:80,Elite,1851,ZA,South Africa,Johannesburg,Microsoft Corporation,20.33.10.79
+http,103.158.97.82,8080,103.158.97.82:8080,Elite,1911,ID,Indonesia,Sumedang,PT Dinar Wahana Gemilang,103.158.97.82
+http,1.10.248.235,80,1.10.248.235:80,Elite,1924,TH,Thailand,Bangkok,TOT Public Company Limited,1.10.248.235
+http,1.2.248.41,8080,1.2.248.41:8080,Elite,2496,TH,Thailand,Khwaeng Thung Song Hong,TOT Public Company Limited,1.2.248.41
