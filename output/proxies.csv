@@ -1,28 +1,19 @@
 protocol,ip,port,proxy,anonymity,latency_ms,country_code,country,city,isp,egress_ip
-http,34.43.46.91,443,34.43.46.91:443,Elite,290,??,Unknown,-,-,34.143.43.175
-http,34.43.46.91,80,34.43.46.91:80,Elite,297,US,United States,Mountain View,Google LLC,34.143.56.137
-http,167.99.3.26,10001,167.99.3.26:10001,Elite,391,US,United States,North Bergen,"DigitalOcean, LLC",74.80.146.152
-http,103.237.102.191,11111,103.237.102.191:11111,Elite,700,DE,Germany,Frankfurt am Main,Zenlayer Inc,103.237.102.191
-http,190.60.61.42,8080,190.60.61.42:8080,Elite,715,CO,Colombia,Barranquilla,Ufinet Panama S.A.,190.60.61.42
-http,43.156.66.78,12345,43.156.66.78:12345,Elite,902,SG,Singapore,Singapore,Shenzhen Tencent Computer Systems Company Limited,43.156.66.78
-http,4.144.146.21,80,4.144.146.21:80,Elite,914,SG,Singapore,Singapore,Microsoft Corporation,20.44.210.140
-http,8.215.25.3,2081,8.215.25.3:2081,Elite,982,ID,Indonesia,Jakarta,"Alibaba (US) Technology Co., Ltd.",8.215.25.3
-http,43.165.135.162,60000,43.165.135.162:60000,Elite,1002,JP,Japan,Tokyo,Shenzhen Tencent Computer Systems Company Limited,43.165.135.162
-http,103.18.77.101,8080,103.18.77.101:8080,Elite,1146,ID,Indonesia,Bogor,PT Usaha Adi Sanggoro,103.18.77.101
-http,85.115.209.63,1085,85.115.209.63:1085,Elite,1157,RO,Romania,Bucharest,Godlike Digital Solutions S.R.L.,85.115.209.63
-http,206.237.107.69,60001,206.237.107.69:60001,Elite,1261,PH,Philippines,Makati City,PT Herza Digital Indonesia,103.92.147.86
-http,102.244.78.61,8083,102.244.78.61:8083,Elite,1304,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8082,102.244.78.61:8082,Elite,1313,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8087,102.244.78.61:8087,Elite,1342,CM,Cameroon,Douala,Orange CAM INTERNET,102.244.78.57
-http,45.194.46.57,8080,45.194.46.57:8080,Elite,1512,IN,India,Noida,CtrlS,45.194.46.57
-http,1.20.101.21,80,1.20.101.21:80,Elite,1614,TH,Thailand,Chon Buri,TOT Public Company Limited,1.20.101.21
-http,89.43.134.39,8080,89.43.134.39:8080,Elite,1644,SY,Syria,Aleppo,High Speed For Internet Services L.L.C,89.43.134.39
-http,165.154.162.73,8888,165.154.162.73:8888,Elite,1688,US,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,165.154.162.73
-http,45.70.52.248,8080,45.70.52.248:8080,Elite,1914,BR,Brazil,Rio de Janeiro,NC BRASIL TELECOM E SERVICOS LTDA- ME,45.70.52.248
-http,45.65.224.125,999,45.65.224.125:999,Elite,2013,AR,Argentina,Buenos Aires,Solution LAN S.A,45.65.224.125
-http,8.219.97.248,80,8.219.97.248:80,Elite,2066,SG,Singapore,Singapore,Alibaba Cloud (Singapore) Private Limited,8.219.64.236
-http,113.11.179.153,8080,113.11.179.153:8080,Elite,2246,ID,Indonesia,Kudus,Biznet Networks,113.11.179.153
-http,103.77.79.64,8080,103.77.79.64:8080,Elite,2254,ID,Indonesia,Karangwangkal,Sayagi,103.77.79.64
-http,45.236.107.106,808,45.236.107.106:808,Elite,2297,EC,Ecuador,Quito,Eliana Vanessa Morocho Oña,45.236.107.105
-http,45.190.85.1,999,45.190.85.1:999,Elite,2338,VE,Venezuela,Caricuao,"TELECOM.CORPORATIVAS TELECORP, C.A",45.190.85.41
-http,38.194.246.34,999,38.194.246.34:999,Elite,2403,MX,Mexico,Los Ramírez,IENTC S de RL de CV,206.135.47.106
+http,184.75.221.82,3118,184.75.221.82:3118,Elite,225,CA,Canada,Toronto,Amanah Tech Inc.,184.75.221.82
+http,103.237.102.191,11111,103.237.102.191:11111,Elite,573,DE,Germany,Frankfurt am Main,Zenlayer Inc,103.237.102.191
+http,186.67.94.10,999,186.67.94.10:999,Elite,716,CL,Chile,Santiago,Entel Chile S.A.,186.67.94.10
+http,112.216.54.226,12121,112.216.54.226:12121,Elite,898,KR,South Korea,Yongin-si,LG DACOM Corporation,112.216.54.227
+http,45.43.60.220,8080,45.43.60.220:8080,Elite,899,JP,Japan,Tokyo,Zenlayer Inc,45.43.60.220
+http,43.156.66.78,12345,43.156.66.78:12345,Elite,1031,SG,Singapore,Singapore,Shenzhen Tencent Computer Systems Company Limited,43.156.66.78
+http,4.144.146.21,80,4.144.146.21:80,Elite,1045,SG,Singapore,Singapore,Microsoft Corporation,20.44.210.140
+http,102.244.78.61,8089,102.244.78.61:8089,Elite,1170,CM,Cameroon,Douala,Orange CAM INTERNET,102.244.78.57
+http,34.43.46.91,443,34.43.46.91:443,Elite,1176,US,United States,Mountain View,Google LLC,34.143.51.195
+http,102.244.78.61,8087,102.244.78.61:8087,Elite,1178,??,Unknown,-,-,102.244.78.57
+http,157.15.62.74,8080,157.15.62.74:8080,Elite,1217,ID,Indonesia,Malang,AMAN ISP Customer Malang,157.15.62.74
+http,190.12.150.244,999,190.12.150.244:999,Elite,1300,EC,Ecuador,Quininde,Servitelconet Cia. Ltda.,190.12.150.244
+http,165.154.162.73,8888,165.154.162.73:8888,Elite,1395,US,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,165.154.162.73
+http,177.234.217.85,999,177.234.217.85:999,Elite,1466,EC,Ecuador,Quito,Ufinet Panama S.A.,177.234.217.82
+http,34.43.46.91,80,34.43.46.91:80,Elite,1593,??,Unknown,-,-,34.143.51.195
+http,190.97.229.118,999,190.97.229.118:999,Elite,1657,VE,Venezuela,El Tocuyo,Viginet C.A,190.97.229.118
+http,45.65.226.174,999,45.65.226.174:999,Elite,1889,AR,Argentina,Buenos Aires,Solution LAN S.A,45.65.226.169
+http,77.95.2.9,8080,77.95.2.9:8080,Elite,1987,TJ,Tajikistan,Dushanbe,Tajik Academic Research Educational Networks Association,77.95.2.9
