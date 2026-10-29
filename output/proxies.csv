@@ -1,20 +1,21 @@
 protocol,ip,port,proxy,anonymity,latency_ms,country_code,country,city,isp,egress_ip
-http,130.127.204.197,8080,130.127.204.197:8080,Elite,171,US,United States,Seneca,Clemson University,130.127.255.222
-http,184.75.221.82,3118,184.75.221.82:3118,Elite,188,CA,Canada,Toronto,Amanah Tech Inc.,184.75.221.82
-http,34.43.46.91,443,34.43.46.91:443,Elite,208,US,United States,Mountain View,Google LLC,34.143.51.195
-http,180.53.81.127,8080,180.53.81.127:8080,Elite,862,JP,Japan,Chūō,NTT Communications Corporation,180.53.81.127
-http,172.237.41.254,9999,172.237.41.254:9999,Elite,997,IN,India,Mumbai,"Akamai Technologies, Inc.",172.237.41.254
-http,77.67.8.122,443,77.67.8.122:443,Elite,1148,KZ,Kazakhstan,Almaty,Megahost Kazakhstan TOO,77.67.8.122
-http,4.144.146.21,80,4.144.146.21:80,Elite,1176,SG,Singapore,Singapore,Microsoft Corporation,20.44.210.140
-http,112.208.174.83,8080,112.208.174.83:8080,Elite,1214,PH,Philippines,Makati City,Philippine Long Distance Telephone Co.,112.208.174.83
-http,34.96.238.40,8080,34.96.238.40:8080,Elite,1301,HK,Hong Kong,Hong Kong,Google LLC,34.96.238.40
-http,102.244.78.61,8081,102.244.78.61:8081,Elite,1314,??,Unknown,-,-,102.244.78.57
-http,160.202.146.48,8080,160.202.146.48:8080,Elite,1332,BD,Bangladesh,Paltan,Antaranga Dot Com Ltd,160.202.146.48
-http,102.244.78.61,8083,102.244.78.61:8083,Elite,1340,CM,Cameroon,Douala,Orange CAM INTERNET,102.244.78.57
-http,103.124.137.193,8181,103.124.137.193:8181,Elite,1355,ID,Indonesia,Tangerang,Global Media Data Prima,103.124.137.193
-http,8.219.97.248,80,8.219.97.248:80,Elite,1442,SG,Singapore,Singapore,Alibaba Cloud (Singapore) Private Limited,8.219.64.236
-http,145.236.156.1,8080,145.236.156.1:8080,Elite,1513,HU,Hungary,Kimle,Magyar Telekom,145.236.156.1
-http,38.211.68.83,999,38.211.68.83:999,Elite,1620,CO,Colombia,Popayán,Cogent Communications,38.211.68.83
-http,103.82.20.76,8080,103.82.20.76:8080,Elite,1657,VN,Vietnam,Dich Vong,INETACADEMY,27.79.49.108
-http,45.194.90.225,8080,45.194.90.225:8080,Elite,1706,IN,India,Noida,Shanxi Liyun Breeding Co,45.194.90.225
-http,116.68.162.174,8080,116.68.162.174:8080,Elite,2351,ID,Indonesia,Kediri,PT. Sumber Data Indonesia,116.68.162.174
+http,130.127.204.197,8080,130.127.204.197:8080,Elite,166,US,United States,Seneca,Clemson University,130.127.255.222
+http,34.43.46.91,443,34.43.46.91:443,Elite,332,??,Unknown,-,-,34.143.51.195
+http,34.43.46.91,80,34.43.46.91:80,Elite,536,US,United States,Mountain View,Google LLC,34.143.51.195
+http,103.237.102.191,11111,103.237.102.191:11111,Elite,653,DE,Germany,Frankfurt am Main,Zenlayer Inc,103.237.102.191
+http,4.144.146.21,80,4.144.146.21:80,Elite,1152,SG,Singapore,Singapore,Microsoft Corporation,20.44.210.140
+http,8.215.25.3,2080,8.215.25.3:2080,Elite,1219,ID,Indonesia,Jakarta,"Alibaba (US) Technology Co., Ltd.",8.215.25.3
+http,125.25.167.199,443,125.25.167.199:443,Elite,1485,TH,Thailand,Bangkok,TOT Public Company Limited,125.25.167.199
+http,65.109.65.238,28080,65.109.65.238:28080,Elite,1510,FI,Finland,Helsinki,Hetzner Online GmbH,77.111.246.62
+http,125.25.167.199,80,125.25.167.199:80,Elite,1534,??,Unknown,-,-,125.25.167.199
+http,1.20.101.16,80,1.20.101.16:80,Elite,1618,TH,Thailand,Chon Buri,TOT Public Company Limited,1.20.101.16
+http,182.253.154.26,8080,182.253.154.26:8080,Elite,1622,ID,Indonesia,West Jakarta,BIZNET,182.253.154.26
+http,45.175.163.58,999,45.175.163.58:999,Elite,1731,AR,Argentina,Mendoza,Redes Del Oeste S.A,45.175.163.58
+http,153.51.241.42,999,153.51.241.42:999,Elite,1812,MX,Mexico,Cunduacán,Javier Tamayo Garcia,45.189.148.155
+http,69.171.214.160,999,69.171.214.160:999,Elite,1854,MX,Mexico,San Isidro Culiacán,Ipxo LLC,69.171.214.174
+http,41.33.245.138,1976,41.33.245.138:1976,Elite,1857,EG,Egypt,Cairo,TE Data,41.33.245.138
+http,182.253.162.11,8888,182.253.162.11:8888,Elite,1879,ID,Indonesia,North Jakarta,BIZNET,182.253.162.11
+http,154.18.255.11,1256,154.18.255.11:1256,Elite,1950,ID,Indonesia,Karawang,PT Media Solusi Sukses,154.18.255.11
+http,160.202.146.48,8080,160.202.146.48:8080,Elite,2279,BD,Bangladesh,Paltan,Antaranga Dot Com Ltd,160.202.146.48
+http,58.69.124.137,8080,58.69.124.137:8080,Elite,2352,PH,Philippines,Antipolo City,Philippine Long Distance Telephone Co.,58.69.124.137
+http,1.10.248.249,80,1.10.248.249:80,Elite,2426,TH,Thailand,Bangkok,TOT Public Company Limited,1.10.248.249
