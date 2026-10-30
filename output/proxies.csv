@@ -1,20 +1,22 @@
 protocol,ip,port,proxy,anonymity,latency_ms,country_code,country,city,isp,egress_ip
-http,165.154.162.73,8888,165.154.162.73:8888,Elite,159,US,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,165.154.162.73
-http,130.127.204.197,8080,130.127.204.197:8080,Elite,347,US,United States,Seneca,Clemson University,130.127.255.222
-http,143.255.86.212,999,143.255.86.212:999,Elite,535,VE,Venezuela,Mérida,Viginet C.A,143.255.86.215
-http,45.189.57.114,3129,45.189.57.114:3129,Elite,636,EC,Ecuador,Cañar,Cbvision S.A.,45.189.57.114
-http,34.43.46.91,443,34.43.46.91:443,Elite,875,??,Unknown,-,-,34.143.51.195
-http,34.43.46.91,80,34.43.46.91:80,Elite,887,US,United States,Mountain View,Google LLC,34.143.51.195
-http,4.144.146.21,80,4.144.146.21:80,Elite,966,SG,Singapore,Singapore,Microsoft Corporation,20.44.210.140
-http,34.96.238.40,8080,34.96.238.40:8080,Elite,982,HK,Hong Kong,Hong Kong,Google LLC,34.96.238.40
-http,203.177.217.221,8082,203.177.217.221:8082,Elite,1142,PH,Philippines,Aroroy,Globe Telecom,203.177.217.221
-http,8.219.97.248,80,8.219.97.248:80,Elite,1182,SG,Singapore,Singapore,Alibaba Cloud (Singapore) Private Limited,8.219.64.236
-http,20.33.10.79,9443,20.33.10.79:9443,Elite,1299,ZA,South Africa,Johannesburg,Microsoft Corporation,20.33.10.79
-http,102.244.78.61,8082,102.244.78.61:8082,Elite,1484,CM,Cameroon,Douala,Orange CAM INTERNET,102.244.78.57
-http,45.65.226.172,999,45.65.226.172:999,Elite,1694,AR,Argentina,Buenos Aires,Solution LAN S.A,45.65.226.169
-http,115.178.50.122,8080,115.178.50.122:8080,Elite,1826,ID,Indonesia,Cinisti,NOC SIMAYA,115.178.50.122
-http,45.71.186.213,999,45.71.186.213:999,Elite,1884,EC,Ecuador,Naranjito,Ufinet Panama S.A.,181.78.194.249
-http,119.93.94.108,8080,119.93.94.108:8080,Elite,2229,PH,Philippines,Makati City,Philippine Long Distance Telephone Co.,49.144.52.193
-http,184.75.221.82,3118,184.75.221.82:3118,Elite,2341,CA,Canada,Toronto,Amanah Tech Inc.,184.75.221.82
-http,85.121.149.232,18080,85.121.149.232:18080,Elite,2411,MD,Moldova,Chisinau,Alexhost SRL,38.147.177.242
-http,103.82.20.76,8080,103.82.20.76:8080,Elite,2498,VN,Vietnam,Dich Vong,INETACADEMY,117.0.239.171
+http,34.43.46.91,443,34.43.46.91:443,Elite,268,US,United States,Mountain View,Google LLC,34.143.51.195
+http,34.43.46.91,80,34.43.46.91:80,Elite,310,??,Unknown,-,-,34.143.11.219
+http,165.154.162.73,8888,165.154.162.73:8888,Elite,610,US,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,165.154.162.73
+http,103.237.102.191,11111,103.237.102.191:11111,Elite,688,DE,Germany,Frankfurt am Main,Zenlayer Inc,103.237.102.191
+http,94.183.206.215,8080,94.183.206.215:8080,Elite,698,NL,The Netherlands,Amsterdam,TurtleGuard,51.158.242.135
+http,45.189.57.114,3129,45.189.57.114:3129,Elite,722,EC,Ecuador,Cañar,Cbvision S.A.,45.189.57.114
+http,165.154.7.156,8888,165.154.7.156:8888,Elite,830,HK,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,165.154.7.156
+http,119.94.183.78,8082,119.94.183.78:8082,Elite,1125,PH,Philippines,Marilao,Philippine Long Distance Telephone Co.,119.94.183.78
+http,4.144.146.21,80,4.144.146.21:80,Elite,1414,SG,Singapore,Singapore,Microsoft Corporation,20.44.210.140
+http,102.244.78.61,8085,102.244.78.61:8085,Elite,1471,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8081,102.244.78.61:8081,Elite,1482,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8084,102.244.78.61:8084,Elite,1483,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8089,102.244.78.61:8089,Elite,1493,CM,Cameroon,Douala,Orange CAM INTERNET,102.244.78.57
+http,102.244.78.61,8082,102.244.78.61:8082,Elite,1531,??,Unknown,-,-,102.244.78.57
+http,85.121.149.232,18080,85.121.149.232:18080,Elite,1560,MD,Moldova,Chisinau,Alexhost SRL,92.118.190.112
+http,45.43.60.220,8080,45.43.60.220:8080,Elite,1758,JP,Japan,Tokyo,Zenlayer Inc,45.43.60.220
+http,177.234.217.84,999,177.234.217.84:999,Elite,2029,EC,Ecuador,Quito,Ufinet Panama S.A.,177.234.217.82
+http,45.198.11.183,9191,45.198.11.183:9191,Elite,2072,ID,Indonesia,Colomadu,PT Jaringan Lintas Artha,45.198.10.131
+http,222.111.130.73,8080,222.111.130.73:8080,Elite,2151,KR,South Korea,Dongdaemun,Korea Telecom,222.111.130.73
+http,172.237.41.254,9999,172.237.41.254:9999,Elite,2176,IN,India,Mumbai,"Akamai Technologies, Inc.",172.237.41.254
+http,202.47.188.205,1111,202.47.188.205:1111,Elite,2200,ID,Indonesia,Madiun,"Lintas Data Prima, PT",202.47.188.205
