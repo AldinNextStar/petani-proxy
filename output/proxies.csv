@@ -1,22 +1,31 @@
 protocol,ip,port,proxy,anonymity,latency_ms,country_code,country,city,isp,egress_ip
-http,34.43.46.91,443,34.43.46.91:443,Elite,268,US,United States,Mountain View,Google LLC,34.143.51.195
-http,34.43.46.91,80,34.43.46.91:80,Elite,310,??,Unknown,-,-,34.143.11.219
-http,165.154.162.73,8888,165.154.162.73:8888,Elite,610,US,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,165.154.162.73
-http,103.237.102.191,11111,103.237.102.191:11111,Elite,688,DE,Germany,Frankfurt am Main,Zenlayer Inc,103.237.102.191
-http,94.183.206.215,8080,94.183.206.215:8080,Elite,698,NL,The Netherlands,Amsterdam,TurtleGuard,51.158.242.135
-http,45.189.57.114,3129,45.189.57.114:3129,Elite,722,EC,Ecuador,Cañar,Cbvision S.A.,45.189.57.114
-http,165.154.7.156,8888,165.154.7.156:8888,Elite,830,HK,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,165.154.7.156
-http,119.94.183.78,8082,119.94.183.78:8082,Elite,1125,PH,Philippines,Marilao,Philippine Long Distance Telephone Co.,119.94.183.78
-http,4.144.146.21,80,4.144.146.21:80,Elite,1414,SG,Singapore,Singapore,Microsoft Corporation,20.44.210.140
-http,102.244.78.61,8085,102.244.78.61:8085,Elite,1471,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8081,102.244.78.61:8081,Elite,1482,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8084,102.244.78.61:8084,Elite,1483,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8089,102.244.78.61:8089,Elite,1493,CM,Cameroon,Douala,Orange CAM INTERNET,102.244.78.57
-http,102.244.78.61,8082,102.244.78.61:8082,Elite,1531,??,Unknown,-,-,102.244.78.57
-http,85.121.149.232,18080,85.121.149.232:18080,Elite,1560,MD,Moldova,Chisinau,Alexhost SRL,92.118.190.112
-http,45.43.60.220,8080,45.43.60.220:8080,Elite,1758,JP,Japan,Tokyo,Zenlayer Inc,45.43.60.220
-http,177.234.217.84,999,177.234.217.84:999,Elite,2029,EC,Ecuador,Quito,Ufinet Panama S.A.,177.234.217.82
-http,45.198.11.183,9191,45.198.11.183:9191,Elite,2072,ID,Indonesia,Colomadu,PT Jaringan Lintas Artha,45.198.10.131
-http,222.111.130.73,8080,222.111.130.73:8080,Elite,2151,KR,South Korea,Dongdaemun,Korea Telecom,222.111.130.73
-http,172.237.41.254,9999,172.237.41.254:9999,Elite,2176,IN,India,Mumbai,"Akamai Technologies, Inc.",172.237.41.254
-http,202.47.188.205,1111,202.47.188.205:1111,Elite,2200,ID,Indonesia,Madiun,"Lintas Data Prima, PT",202.47.188.205
+http,184.75.221.82,3118,184.75.221.82:3118,Elite,100,CA,Canada,Toronto,Amanah Tech Inc.,184.75.221.82
+http,130.127.204.197,8080,130.127.204.197:8080,Elite,123,US,United States,Seneca,Clemson University,130.127.255.222
+http,167.99.3.26,8181,167.99.3.26:8181,Elite,177,US,United States,North Bergen,"DigitalOcean, LLC",204.242.0.228
+http,103.237.102.191,11111,103.237.102.191:11111,Elite,474,DE,Germany,Frankfurt am Main,Zenlayer Inc,103.237.102.191
+http,45.189.57.114,3129,45.189.57.114:3129,Elite,504,EC,Ecuador,Cañar,Cbvision S.A.,45.189.57.114
+http,144.124.251.24,10628,144.124.251.24:10628,Elite,621,NL,The Netherlands,Amsterdam,Servers Tech Fzco,144.124.251.24
+http,165.154.7.156,8888,165.154.7.156:8888,Elite,1051,HK,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,165.154.7.156
+http,201.79.50.139,10000,201.79.50.139:10000,Elite,1090,BR,Brazil,Salvador,DigitalOcean,201.79.50.139
+http,102.244.78.61,8084,102.244.78.61:8084,Elite,1116,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8081,102.244.78.61:8081,Elite,1119,CM,Cameroon,Douala,Orange CAM INTERNET,102.244.78.57
+http,102.244.78.61,8085,102.244.78.61:8085,Elite,1121,??,Unknown,-,-,102.244.78.57
+http,4.144.146.21,80,4.144.146.21:80,Elite,1163,SG,Singapore,Singapore,Microsoft Corporation,20.44.210.140
+http,34.96.238.40,8080,34.96.238.40:8080,Elite,1260,HK,Hong Kong,Hong Kong,Google LLC,34.96.238.40
+http,103.125.19.94,8080,103.125.19.94:8080,Elite,1338,ID,Indonesia,Kresek,JAVAMEDIA,103.125.19.94
+http,102.244.78.61,8089,102.244.78.61:8089,Elite,1345,??,Unknown,-,-,102.244.78.57
+http,222.127.76.123,8082,222.127.76.123:8082,Elite,1391,PH,Philippines,Lahug,INNOVE,210.213.120.2
+http,38.137.232.134,999,38.137.232.134:999,Elite,1575,VE,Venezuela,Caracas,CORPORACIÓN GALA IT C.A,38.137.232.134
+http,212.86.57.87,8080,212.86.57.87:8080,Elite,1585,DE,Germany,Berlin,DNS:NET Internet Service GmbH,212.86.57.87
+http,147.15.126.122,28080,147.15.126.122:28080,Elite,1874,BR,Brazil,São Paulo,Oracle Corporation,147.15.126.122
+http,38.196.176.133,999,38.196.176.133:999,Elite,1911,DO,Dominican Republic,San Pedro de Macorís,"VALNET WIRELESS, S.R.L.",38.196.176.130
+http,103.13.221.149,20000,103.13.221.149:20000,Elite,1975,KR,South Korea,Anyang-si,90QH,103.13.221.149
+http,212.175.50.85,8085,212.175.50.85:8085,Elite,1997,TR,Turkey,Ceylanpınar,Turk Telekomunikasyon Anonim Sirketi,212.175.50.85
+http,118.179.136.153,81,118.179.136.153:81,Elite,2129,BD,Bangladesh,Dhaka,AmberIT Limited,118.179.136.153
+http,93.112.221.198,8080,93.112.221.198:8080,Elite,2221,SA,Saudi Arabia,Jeddah,Saudi Telecom Company JSC,93.112.221.198
+http,103.155.130.94,8080,103.155.130.94:8080,Elite,2231,IN,India,Mumbai,Haash Media,103.155.130.94
+http,103.46.11.129,8090,103.46.11.129:8090,Elite,2320,ID,Indonesia,Sukoanyar,"Lintas Data Prima, PT",103.46.11.129
+http,117.18.21.115,3125,117.18.21.115:3125,Elite,2342,ID,Indonesia,Blitar,PT ALUCIO,117.18.21.115
+http,103.247.22.84,8080,103.247.22.84:8080,Elite,2344,ID,Indonesia,Purbalingga,PT wifian Solution,103.247.22.84
+http,79.175.107.227,6666,79.175.107.227:6666,Elite,2461,RS,Serbia,Belgrade,Drustvo za telekomunikacije Orion telekom doo Beograd-Zemun,79.175.107.227
+http,49.146.53.14,8082,49.146.53.14:8082,Elite,2497,PH,Philippines,Tacurong,Philippine Long Distance Telephone Co.,180.190.80.250
