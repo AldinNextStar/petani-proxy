@@ -1,23 +1,21 @@
 protocol,ip,port,proxy,anonymity,latency_ms,country_code,country,city,isp,egress_ip
-http,130.127.204.197,8080,130.127.204.197:8080,Elite,367,US,United States,Seneca,Clemson University,130.127.255.222
-http,103.237.102.191,11111,103.237.102.191:11111,Elite,764,DE,Germany,Frankfurt am Main,Zenlayer Inc,103.237.102.191
-http,45.189.57.114,3129,45.189.57.114:3129,Elite,771,EC,Ecuador,Cañar,Cbvision S.A.,45.189.57.114
-http,4.144.146.21,80,4.144.146.21:80,Elite,918,SG,Singapore,Singapore,Microsoft Corporation,20.44.210.140
-http,103.158.210.80,8082,103.158.210.80:8082,Elite,1107,ID,Indonesia,Babat,DIGITNET,103.158.210.80
-http,102.244.78.61,8083,102.244.78.61:8083,Elite,1287,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8081,102.244.78.61:8081,Elite,1305,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8086,102.244.78.61:8086,Elite,1312,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8082,102.244.78.61:8082,Elite,1313,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8089,102.244.78.61:8089,Elite,1323,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8084,102.244.78.61:8084,Elite,1324,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8085,102.244.78.61:8085,Elite,1526,CM,Cameroon,Douala,Orange CAM INTERNET,102.244.78.57
-http,38.75.82.221,999,38.75.82.221:999,Elite,1695,DO,Dominican Republic,Santo Domingo Este,Cogent Communications,38.75.82.210
-http,165.154.7.156,8888,165.154.7.156:8888,Elite,1782,HK,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,165.154.7.156
-http,212.200.223.89,8080,212.200.223.89:8080,Elite,1942,RS,Serbia,Belgrade,TELEKOM SRBIJA a.d.,212.200.223.89
-http,202.183.236.219,8080,202.183.236.219:8080,Elite,2004,TH,Thailand,Yala,Advanced Wireless Network Company Limited,161.82.141.218
-http,131.0.120.162,9292,131.0.120.162:9292,Elite,2009,BR,Brazil,Pirapozinho,Icenet Telecomunicacoes Ltda - ME,131.0.120.162
-http,103.204.46.2,8090,103.204.46.2:8090,Elite,2215,ID,Indonesia,Pacitan,PT Wifa Lintas Data,103.204.46.10
-http,110.76.145.118,1111,110.76.145.118:1111,Elite,2285,ID,Indonesia,Peninjawan,PT Pika Media Komunika,110.76.145.118
-http,103.125.212.130,8080,103.125.212.130:8080,Elite,2326,ID,Indonesia,West Jakarta,SOLUSINET,103.125.212.130
-http,38.41.0.116,999,38.41.0.116:999,Elite,2439,VE,Venezuela,Mérida,MDS TELECOM C.A.,38.41.29.83
-http,94.183.206.215,8080,94.183.206.215:8080,Elite,2458,NL,The Netherlands,Amsterdam,TurtleGuard,82.196.7.117
+http,34.43.46.91,443,34.43.46.91:443,Elite,194,US,United States,Mountain View,Google LLC,34.143.51.195
+http,34.43.46.91,80,34.43.46.91:80,Elite,203,??,Unknown,-,-,34.143.51.195
+http,130.127.204.197,8080,130.127.204.197:8080,Elite,219,US,United States,Seneca,Clemson University,130.127.255.222
+http,146.190.60.147,8010,146.190.60.147:8010,Elite,445,US,United States,Santa Clara,"DigitalOcean, LLC",146.190.60.147
+http,103.237.102.191,11111,103.237.102.191:11111,Elite,583,DE,Germany,Frankfurt am Main,Zenlayer Inc,103.237.102.191
+http,45.189.57.114,3129,45.189.57.114:3129,Elite,618,EC,Ecuador,Santa Rosa,Cbvision S.A.,45.189.57.114
+http,180.53.81.127,8080,180.53.81.127:8080,Elite,760,JP,Japan,Fujisawa,NTT Communications Corporation,180.53.81.127
+http,5.175.245.72,1082,5.175.245.72:1082,Elite,797,DE,Germany,Frankfurt am Main,Justin Harth trading as NexoSystems IT-Solutions,187.40.49.89
+http,45.65.226.172,999,45.65.226.172:999,Elite,963,AR,Argentina,Buenos Aires,Solution LAN S.A,45.65.226.169
+http,4.144.146.21,80,4.144.146.21:80,Elite,1036,SG,Singapore,Singapore,Microsoft Corporation,20.44.210.140
+http,165.22.99.36,8011,165.22.99.36:8011,Elite,1059,SG,Singapore,Singapore,"DigitalOcean, LLC",165.22.99.36
+http,102.244.78.61,8083,102.244.78.61:8083,Elite,1213,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8086,102.244.78.61:8086,Elite,1215,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8085,102.244.78.61:8085,Elite,1228,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8082,102.244.78.61:8082,Elite,1228,CM,Cameroon,Maroua,Orange CAM INTERNET,102.244.78.57
+http,119.94.183.78,8082,119.94.183.78:8082,Elite,1248,PH,Philippines,Marilao,Philippine Long Distance Telephone Co.,119.94.183.78
+http,179.60.189.81,999,179.60.189.81:999,Elite,1869,EC,Ecuador,Quito,Eliana Vanessa Morocho Oña,179.60.189.81
+http,42.115.72.145,2026,42.115.72.145:2026,Elite,1874,VN,Vietnam,Hanoi,FPT Telecom Company,116.104.155.66
+http,186.167.53.178,8282,186.167.53.178:8282,Elite,2198,VE,Venezuela,Barquisimeto,Corporacion Digitel C.A,186.167.53.178
+http,88.204.22.105,8080,88.204.22.105:8080,Elite,2389,RU,Russia,Tomsk,"JSC ""ER-Telecom Holding""",88.204.22.105
