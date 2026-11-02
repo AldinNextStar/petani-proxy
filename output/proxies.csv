@@ -1,21 +1,29 @@
 protocol,ip,port,proxy,anonymity,latency_ms,country_code,country,city,isp,egress_ip
-http,34.43.46.91,443,34.43.46.91:443,Elite,194,US,United States,Mountain View,Google LLC,34.143.51.195
-http,34.43.46.91,80,34.43.46.91:80,Elite,203,??,Unknown,-,-,34.143.51.195
-http,130.127.204.197,8080,130.127.204.197:8080,Elite,219,US,United States,Seneca,Clemson University,130.127.255.222
-http,146.190.60.147,8010,146.190.60.147:8010,Elite,445,US,United States,Santa Clara,"DigitalOcean, LLC",146.190.60.147
-http,103.237.102.191,11111,103.237.102.191:11111,Elite,583,DE,Germany,Frankfurt am Main,Zenlayer Inc,103.237.102.191
-http,45.189.57.114,3129,45.189.57.114:3129,Elite,618,EC,Ecuador,Santa Rosa,Cbvision S.A.,45.189.57.114
-http,180.53.81.127,8080,180.53.81.127:8080,Elite,760,JP,Japan,Fujisawa,NTT Communications Corporation,180.53.81.127
-http,5.175.245.72,1082,5.175.245.72:1082,Elite,797,DE,Germany,Frankfurt am Main,Justin Harth trading as NexoSystems IT-Solutions,187.40.49.89
-http,45.65.226.172,999,45.65.226.172:999,Elite,963,AR,Argentina,Buenos Aires,Solution LAN S.A,45.65.226.169
-http,4.144.146.21,80,4.144.146.21:80,Elite,1036,SG,Singapore,Singapore,Microsoft Corporation,20.44.210.140
-http,165.22.99.36,8011,165.22.99.36:8011,Elite,1059,SG,Singapore,Singapore,"DigitalOcean, LLC",165.22.99.36
-http,102.244.78.61,8083,102.244.78.61:8083,Elite,1213,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8086,102.244.78.61:8086,Elite,1215,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8085,102.244.78.61:8085,Elite,1228,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8082,102.244.78.61:8082,Elite,1228,CM,Cameroon,Maroua,Orange CAM INTERNET,102.244.78.57
-http,119.94.183.78,8082,119.94.183.78:8082,Elite,1248,PH,Philippines,Marilao,Philippine Long Distance Telephone Co.,119.94.183.78
-http,179.60.189.81,999,179.60.189.81:999,Elite,1869,EC,Ecuador,Quito,Eliana Vanessa Morocho Oña,179.60.189.81
-http,42.115.72.145,2026,42.115.72.145:2026,Elite,1874,VN,Vietnam,Hanoi,FPT Telecom Company,116.104.155.66
-http,186.167.53.178,8282,186.167.53.178:8282,Elite,2198,VE,Venezuela,Barquisimeto,Corporacion Digitel C.A,186.167.53.178
-http,88.204.22.105,8080,88.204.22.105:8080,Elite,2389,RU,Russia,Tomsk,"JSC ""ER-Telecom Holding""",88.204.22.105
+http,34.43.46.91,443,34.43.46.91:443,Elite,183,??,Unknown,-,-,35.230.222.184
+http,34.43.46.91,80,34.43.46.91:80,Elite,195,US,United States,Mountain View,Google LLC,34.143.51.195
+http,23.95.60.62,3129,23.95.60.62:3129,Elite,250,US,United States,Los Angeles,HostPapa,23.95.60.51
+http,130.127.204.197,8080,130.127.204.197:8080,Elite,269,US,United States,Seneca,Clemson University,130.127.255.222
+http,190.97.227.9,999,190.97.227.9:999,Elite,597,VE,Venezuela,Mamporal,Viginet C.A,190.97.227.13
+http,103.237.102.191,11111,103.237.102.191:11111,Elite,607,DE,Germany,Frankfurt am Main,Zenlayer Inc,103.237.102.191
+http,45.189.57.114,3129,45.189.57.114:3129,Elite,616,EC,Ecuador,Santa Rosa,Cbvision S.A.,45.189.57.114
+http,190.12.150.244,999,190.12.150.244:999,Elite,932,EC,Ecuador,La Concordia,Servitelconet Cia. Ltda.,190.12.150.244
+http,104.251.93.169,16062,104.251.93.169:16062,Elite,1056,US,United States,Las Vegas,BraveWay LLC,104.251.93.169
+http,4.144.146.21,80,4.144.146.21:80,Elite,1120,SG,Singapore,Singapore,Microsoft Corporation,20.44.210.140
+http,165.99.194.240,8080,165.99.194.240:8080,Elite,1185,ID,Indonesia,Guyangan,PT Network Bumi Saridin,165.99.195.36
+http,102.244.78.61,8082,102.244.78.61:8082,Elite,1202,CM,Cameroon,Maroua,Orange CAM INTERNET,102.244.78.57
+http,102.244.78.61,8085,102.244.78.61:8085,Elite,1207,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8089,102.244.78.61:8089,Elite,1214,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8081,102.244.78.61:8081,Elite,1220,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8086,102.244.78.61:8086,Elite,1241,??,Unknown,-,-,102.244.78.57
+http,45.65.226.172,999,45.65.226.172:999,Elite,1384,AR,Argentina,Buenos Aires,Solution LAN S.A,45.65.226.169
+http,179.60.189.81,999,179.60.189.81:999,Elite,1432,EC,Ecuador,Quito,Eliana Vanessa Morocho Oña,179.60.189.81
+http,45.65.224.125,999,45.65.224.125:999,Elite,1497,AR,Argentina,Buenos Aires,Solution LAN S.A,45.65.224.125
+http,45.167.126.43,999,45.167.126.43:999,Elite,1684,CO,Colombia,Popayán,Sepcom Comunicaciones SAS,45.167.126.43
+http,45.65.226.169,999,45.65.226.169:999,Elite,1842,AR,Argentina,Buenos Aires,Solution LAN S.A,45.65.226.169
+http,201.4.64.239,8080,201.4.64.239:8080,Elite,1932,TR,Turkey,Kilis,High Speed For Internet Services L.L.C,201.4.64.239
+http,209.14.113.106,999,209.14.113.106:999,Elite,1939,CO,Colombia,Quebradanegra,Cogent Communications,201.46.124.123
+http,145.220.227.164,1081,145.220.227.164:1081,Elite,1981,NL,The Netherlands,Utrecht,SURFnet III d,145.220.183.29
+http,103.80.215.123,8080,103.80.215.123:8080,Elite,2001,ID,Indonesia,Sidoarjo,PT Redi Revolusi Digital Solusi,103.80.215.123
+http,119.94.183.78,8082,119.94.183.78:8082,Elite,2306,PH,Philippines,Marilao,Philippine Long Distance Telephone Co.,119.94.183.78
+http,124.217.0.75,8082,124.217.0.75:8082,Elite,2360,PH,Philippines,Cebu City,Philippine Long Distance Telephone Co.,124.217.0.75
+http,45.167.124.133,999,45.167.124.133:999,Elite,2482,CO,Colombia,Popayán,Sepcom Comunicaciones SAS,45.167.124.133
