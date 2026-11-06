@@ -1,21 +1,22 @@
 protocol,ip,port,proxy,anonymity,latency_ms,country_code,country,city,isp,egress_ip
-http,155.138.236.211,18080,155.138.236.211:18080,Elite,452,US,United States,Atlanta,The Constant Company,155.138.236.211
-http,147.161.246.37,10535,147.161.246.37:10535,Elite,656,CH,Switzerland,Zurich,Zscaler Switzerland GmbH,147.161.247.10
-http,147.161.246.37,11033,147.161.246.37:11033,Elite,667,??,Unknown,-,-,147.161.247.10
-http,147.161.246.37,11988,147.161.246.37:11988,Elite,670,??,Unknown,-,-,147.161.247.10
-http,147.161.246.37,10078,147.161.246.37:10078,Elite,672,??,Unknown,-,-,147.161.247.10
-http,147.161.246.37,12696,147.161.246.37:12696,Elite,680,??,Unknown,-,-,147.161.247.10
-http,4.144.146.21,80,4.144.146.21:80,Elite,961,SG,Singapore,Singapore,Microsoft Corporation,20.44.210.140
-http,8.215.25.3,2081,8.215.25.3:2081,Elite,1054,ID,Indonesia,Jakarta,"Alibaba (US) Technology Co., Ltd.",8.215.25.3
-http,103.158.210.80,8082,103.158.210.80:8082,Elite,1163,ID,Indonesia,Babat,DIGITNET,103.158.210.80
-http,187.199.36.52,8080,187.199.36.52:8080,Elite,1248,MX,Mexico,Los Cabos,Uninet S.A. de C.V.,187.199.36.52
-http,102.244.78.61,8086,102.244.78.61:8086,Elite,1257,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8089,102.244.78.61:8089,Elite,1257,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8081,102.244.78.61:8081,Elite,1262,CM,Cameroon,Maroua,Orange CAM INTERNET,102.244.78.57
-http,45.65.224.125,999,45.65.224.125:999,Elite,1836,AR,Argentina,Buenos Aires,Solution LAN S.A,45.65.224.125
-http,103.31.235.251,8080,103.31.235.251:8080,Elite,2092,ID,Indonesia,Caringin,PT Usaha Adi Sanggoro,103.31.235.251
-http,165.154.162.73,8888,165.154.162.73:8888,Elite,2145,US,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,165.154.162.73
-http,1.10.248.226,80,1.10.248.226:80,Elite,2202,TH,Thailand,Khwaeng Thung Song Hong,TOT Public Company Limited,1.10.248.226
-http,103.177.153.121,8080,103.177.153.121:8080,Elite,2324,ID,Indonesia,Bandung,PT Beibi Cemerlang Indonesia,103.177.153.121
-http,179.60.189.81,999,179.60.189.81:999,Elite,2372,EC,Ecuador,Quito,Eliana Vanessa Morocho Oña,179.60.189.81
-http,184.75.221.82,3118,184.75.221.82:3118,Elite,2386,CA,Canada,Toronto,Amanah Tech Inc.,184.75.221.82
+http,47.254.122.220,5443,47.254.122.220:5443,Elite,231,US,United States,Minkler,Alibaba Cloud LLC,47.254.122.220
+http,190.12.150.244,999,190.12.150.244:999,Elite,493,EC,Ecuador,La Concordia,Servitelconet Cia. Ltda.,190.12.150.244
+http,45.189.57.114,3129,45.189.57.114:3129,Elite,550,EC,Ecuador,Santa Rosa,Cbvision S.A.,45.189.57.114
+http,190.71.72.85,2525,190.71.72.85:2525,Elite,642,CO,Colombia,Cali,UNE EPM TELECOMUNICACIONES S.A,190.71.72.84
+http,194.124.37.121,8080,194.124.37.121:8080,Elite,916,TR,Türkiye,Antakya,High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.,194.124.37.121
+http,8.215.25.3,2080,8.215.25.3:2080,Elite,1094,ID,Indonesia,Jakarta,"Alibaba (US) Technology Co., Ltd.",8.215.25.3
+http,103.132.53.28,8080,103.132.53.28:8080,Elite,1146,ID,Indonesia,Pemalang,PT Adeaksa Indo Jayatama,103.132.53.28
+http,102.244.78.61,8082,102.244.78.61:8082,Elite,1168,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8085,102.244.78.61:8085,Elite,1168,CM,Cameroon,Maroua,Orange CAM INTERNET,102.244.78.57
+http,102.244.78.61,8084,102.244.78.61:8084,Elite,1174,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8081,102.244.78.61:8081,Elite,1235,??,Unknown,-,-,102.244.78.57
+http,27.147.142.156,12051,27.147.142.156:12051,Elite,1290,BD,Bangladesh,Dhaka,Link3 Technologies Limited,27.147.142.156
+http,201.7.31.173,8080,201.7.31.173:8080,Elite,1568,TR,Turkey,Istanbul,High Speed For Internet Services L.L.C,201.7.31.173
+http,103.161.1.114,1111,103.161.1.114:1111,Elite,1597,ID,Indonesia,Depok,METRO-RB,103.161.1.114
+http,201.4.64.251,8080,201.4.64.251:8080,Elite,1628,TR,Turkey,Kilis,High Speed For Internet Services L.L.C,201.4.64.251
+http,103.134.221.52,1111,103.134.221.52:1111,Elite,1633,ID,Indonesia,Ciampea,PT GLOBAL MEDIA PRATAMA SOLUSINDO,103.134.223.5
+http,115.236.37.105,2411,115.236.37.105:2411,Elite,1693,CN,China,Hangzhou,Chinanet,128.1.201.68
+http,103.214.189.41,80,103.214.189.41:80,Elite,1969,IN,India,Varanasi,Ikon Broadband Private Limited,103.214.189.41
+http,181.78.44.63,999,181.78.44.63:999,Elite,2216,HN,Honduras,La Unión,Ufinet Panama S.A.,181.78.44.63
+http,194.124.37.118,8080,194.124.37.118:8080,Elite,2349,TR,Türkiye,Antakya,High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.,194.124.37.118
+http,38.156.238.24,999,38.156.238.24:999,Elite,2457,DO,Dominican Republic,Santo Domingo Este,"BITNET DOMINICANA, S.R.L",38.156.238.31
