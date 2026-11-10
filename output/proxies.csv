@@ -1,13 +1,17 @@
 protocol,ip,port,proxy,anonymity,latency_ms,country_code,country,city,isp,egress_ip
-http,103.237.102.191,11111,103.237.102.191:11111,Elite,1086,DE,Germany,Frankfurt am Main,Zenlayer Inc,103.237.102.191
-http,102.244.78.61,8084,102.244.78.61:8084,Elite,1136,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8082,102.244.78.61:8082,Elite,1140,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8085,102.244.78.61:8085,Elite,1141,CM,Cameroon,Maroua,Orange CAM INTERNET,102.244.78.57
-http,102.244.78.61,8081,102.244.78.61:8081,Elite,1144,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8083,102.244.78.61:8083,Elite,1148,??,Unknown,-,-,102.244.78.57
-http,4.144.146.21,80,4.144.146.21:80,Elite,1153,SG,Singapore,Singapore,Microsoft Corporation,20.44.210.140
-http,41.143.83.77,8080,41.143.83.77:8080,Elite,1357,MA,Morocco,Agadir,ADSL Maroc telecom,41.143.83.77
-http,27.147.155.206,12051,27.147.155.206:12051,Elite,1564,BD,Bangladesh,Dhaka,Link3 Technologies Limited,202.74.243.181
-http,45.189.57.114,3129,45.189.57.114:3129,Elite,2057,EC,Ecuador,Santa Rosa,Cbvision S.A.,45.189.57.114
-http,203.205.49.2,10089,203.205.49.2:10089,Elite,2241,VN,Vietnam,Ho Chi Minh City,CMC Telecom Infrastructure Company,203.205.49.92
-http,150.107.244.200,8080,150.107.244.200:8080,Elite,2361,IN,India,Surat,Infrastruktur STARNET,150.107.244.200
+http,34.43.46.91,80,34.43.46.91:80,Elite,312,??,Unknown,-,-,34.143.51.195
+http,34.43.46.91,443,34.43.46.91:443,Elite,338,US,United States,Mountain View,Google LLC,35.230.222.184
+http,45.189.57.114,3129,45.189.57.114:3129,Elite,752,EC,Ecuador,Santa Rosa,Cbvision S.A.,45.189.57.114
+http,103.237.102.191,11111,103.237.102.191:11111,Elite,865,DE,Germany,Frankfurt am Main,Zenlayer Inc,103.237.102.191
+http,43.128.144.133,18080,43.128.144.133:18080,Elite,900,KR,South Korea,Seoul,Shenzhen Tencent Computer Systems Company Limited,43.128.144.133
+http,4.144.146.21,80,4.144.146.21:80,Elite,901,SG,Singapore,Singapore,Microsoft Corporation,20.44.210.140
+http,45.65.224.125,999,45.65.224.125:999,Elite,927,AR,Argentina,Buenos Aires,Solution LAN S.A,45.65.224.125
+http,38.252.228.2,999,38.252.228.2:999,Elite,984,MX,Mexico,Tapachula,Cogent Communications,38.252.228.2
+http,175.106.13.114,8080,175.106.13.114:8080,Elite,1096,ID,Indonesia,West Jakarta,Quantum Dist POP IDC,175.106.13.114
+http,165.154.162.73,8888,165.154.162.73:8888,Elite,1914,US,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,165.154.162.73
+http,187.62.106.161,999,187.62.106.161:999,Elite,2131,MX,Mexico,Atitalaquia,Hulux Telecomunicaciones,187.62.106.135
+http,27.147.155.206,12051,27.147.155.206:12051,Elite,2232,BD,Bangladesh,Dhaka,Link3 Technologies Limited,202.74.243.181
+http,101.51.120.209,8080,101.51.120.209:8080,Elite,2256,TH,Thailand,Mueang Nonthaburi,TOT Public Company Limited,101.51.120.209
+http,148.222.227.186,999,148.222.227.186:999,Elite,2261,PE,Peru,Lima,Edgeuno S.A.C.,148.222.227.186
+http,103.55.22.226,8080,103.55.22.226:8080,Elite,2364,ID,Indonesia,Kisaran,PT General Media Network,103.55.22.226
+http,170.246.36.225,999,170.246.36.225:999,Elite,2459,AR,Argentina,Caleta Olivia,Carrasco Leonardo Javier,170.246.36.225
