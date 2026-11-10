@@ -1,17 +1,16 @@
 protocol,ip,port,proxy,anonymity,latency_ms,country_code,country,city,isp,egress_ip
-http,34.43.46.91,80,34.43.46.91:80,Elite,312,??,Unknown,-,-,34.143.51.195
-http,34.43.46.91,443,34.43.46.91:443,Elite,338,US,United States,Mountain View,Google LLC,35.230.222.184
-http,45.189.57.114,3129,45.189.57.114:3129,Elite,752,EC,Ecuador,Santa Rosa,Cbvision S.A.,45.189.57.114
-http,103.237.102.191,11111,103.237.102.191:11111,Elite,865,DE,Germany,Frankfurt am Main,Zenlayer Inc,103.237.102.191
-http,43.128.144.133,18080,43.128.144.133:18080,Elite,900,KR,South Korea,Seoul,Shenzhen Tencent Computer Systems Company Limited,43.128.144.133
-http,4.144.146.21,80,4.144.146.21:80,Elite,901,SG,Singapore,Singapore,Microsoft Corporation,20.44.210.140
-http,45.65.224.125,999,45.65.224.125:999,Elite,927,AR,Argentina,Buenos Aires,Solution LAN S.A,45.65.224.125
-http,38.252.228.2,999,38.252.228.2:999,Elite,984,MX,Mexico,Tapachula,Cogent Communications,38.252.228.2
-http,175.106.13.114,8080,175.106.13.114:8080,Elite,1096,ID,Indonesia,West Jakarta,Quantum Dist POP IDC,175.106.13.114
-http,165.154.162.73,8888,165.154.162.73:8888,Elite,1914,US,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,165.154.162.73
-http,187.62.106.161,999,187.62.106.161:999,Elite,2131,MX,Mexico,Atitalaquia,Hulux Telecomunicaciones,187.62.106.135
-http,27.147.155.206,12051,27.147.155.206:12051,Elite,2232,BD,Bangladesh,Dhaka,Link3 Technologies Limited,202.74.243.181
-http,101.51.120.209,8080,101.51.120.209:8080,Elite,2256,TH,Thailand,Mueang Nonthaburi,TOT Public Company Limited,101.51.120.209
-http,148.222.227.186,999,148.222.227.186:999,Elite,2261,PE,Peru,Lima,Edgeuno S.A.C.,148.222.227.186
-http,103.55.22.226,8080,103.55.22.226:8080,Elite,2364,ID,Indonesia,Kisaran,PT General Media Network,103.55.22.226
-http,170.246.36.225,999,170.246.36.225:999,Elite,2459,AR,Argentina,Caleta Olivia,Carrasco Leonardo Javier,170.246.36.225
+http,184.75.221.82,3118,184.75.221.82:3118,Elite,125,CA,Canada,Toronto,Amanah Tech Inc.,184.75.221.82
+http,152.53.81.29,8888,152.53.81.29:8888,Elite,388,US,United States,Manassas,netcup GmbH,152.53.81.29
+http,161.35.70.249,80,161.35.70.249:80,Elite,640,DE,Germany,Frankfurt am Main,"DigitalOcean, LLC",161.35.70.249
+http,31.76.32.2,8888,31.76.32.2:8888,Elite,677,DE,Germany,Falkenstein,Emil Vitukhnovskii trading as Great Flower,185.213.154.225
+http,103.237.102.191,11111,103.237.102.191:11111,Elite,869,DE,Germany,Frankfurt am Main,Zenlayer Inc,103.237.102.191
+http,4.144.146.21,80,4.144.146.21:80,Elite,1043,SG,Singapore,Singapore,Microsoft Corporation,20.44.210.140
+http,210.213.99.36,8081,210.213.99.36:8081,Elite,1229,PH,Philippines,Manila,Philippine Long Distance Telephone Co.,124.107.21.21
+http,102.244.78.61,8085,102.244.78.61:8085,Elite,1229,??,Unknown,-,-,102.244.78.57
+http,45.189.57.114,3129,45.189.57.114:3129,Elite,1232,EC,Ecuador,Santa Rosa,Cbvision S.A.,45.189.57.114
+http,102.244.78.61,8083,102.244.78.61:8083,Elite,1243,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8082,102.244.78.61:8082,Elite,1274,CM,Cameroon,Maroua,Orange CAM INTERNET,102.244.78.57
+http,8.219.97.248,80,8.219.97.248:80,Elite,1617,SG,Singapore,Singapore,Alibaba Cloud (Singapore) Private Limited,8.219.64.236
+http,27.147.155.206,12051,27.147.155.206:12051,Elite,1646,BD,Bangladesh,Dhaka,Link3 Technologies Limited,202.74.243.181
+http,165.154.162.73,8888,165.154.162.73:8888,Elite,1786,US,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,165.154.162.73
+http,91.107.186.23,8081,91.107.186.23:8081,Elite,2350,DE,Germany,Frankfurt Am Main,Hetzner Online AG,172.234.128.152
