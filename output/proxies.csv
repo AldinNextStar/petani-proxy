@@ -1,11 +1,17 @@
 protocol,ip,port,proxy,anonymity,latency_ms,country_code,country,city,isp,egress_ip
-http,187.245.202.17,999,187.245.202.17:999,Elite,477,MX,Mexico,San Felipe Jalapa de Díaz,"Mega Cable, S.A. de C.V.",187.245.202.17
-http,103.237.102.191,11111,103.237.102.191:11111,Elite,722,DE,Germany,Frankfurt am Main,Zenlayer Inc,103.237.102.191
-http,216.152.152.44,80,216.152.152.44:80,Elite,976,US,United States,Los Angeles,GTHost,216.152.152.44
-http,188.166.178.163,3129,188.166.178.163:3129,Elite,1012,SG,Singapore,Singapore,"DigitalOcean, LLC",188.166.178.163
-http,102.244.78.61,8082,102.244.78.61:8082,Elite,1514,CM,Cameroon,Maroua,Orange CAM INTERNET,102.244.78.57
-http,154.201.127.230,8080,154.201.127.230:8080,Elite,1544,IN,India,Noida,Real Time Data Services Private Limited,154.201.127.230
-http,45.65.224.125,999,45.65.224.125:999,Elite,1923,AR,Argentina,Buenos Aires,Solution LAN S.A,45.65.224.125
-http,190.9.109.79,999,190.9.109.79:999,Elite,1964,MX,Mexico,Juárez,Megabit Telecomunicaciones SA De CV,190.9.109.66
-http,43.128.144.133,18080,43.128.144.133:18080,Elite,2283,KR,South Korea,Seoul,Shenzhen Tencent Computer Systems Company Limited,43.128.144.133
-http,216.152.149.246,80,216.152.149.246:80,Elite,2319,US,United States,Newark,GTHost,216.152.149.246
+http,165.154.162.73,8888,165.154.162.73:8888,Elite,352,US,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,165.154.162.73
+http,45.189.57.114,3129,45.189.57.114:3129,Elite,668,EC,Ecuador,Santa Rosa,Cbvision S.A.,45.189.57.114
+http,103.237.102.191,11111,103.237.102.191:11111,Elite,718,DE,Germany,Frankfurt am Main,Zenlayer Inc,103.237.102.191
+http,43.128.144.133,18080,43.128.144.133:18080,Elite,851,KR,South Korea,Seoul,Shenzhen Tencent Computer Systems Company Limited,43.128.144.133
+http,188.166.178.163,3129,188.166.178.163:3129,Elite,989,SG,Singapore,Singapore,"DigitalOcean, LLC",188.166.178.163
+http,34.43.46.91,80,34.43.46.91:80,Elite,1100,US,United States,Mountain View,Google LLC,35.230.222.184
+http,102.244.78.61,8081,102.244.78.61:8081,Elite,1314,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8082,102.244.78.61:8082,Elite,1315,CM,Cameroon,Maroua,Orange CAM INTERNET,102.244.78.57
+http,102.244.78.61,8085,102.244.78.61:8085,Elite,1322,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8086,102.244.78.61:8086,Elite,1322,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8083,102.244.78.61:8083,Elite,1326,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8084,102.244.78.61:8084,Elite,1348,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8089,102.244.78.61:8089,Elite,1352,??,Unknown,-,-,102.244.78.57
+http,45.195.105.20,8080,45.195.105.20:8080,Elite,1400,IN,India,Mumbai,Real Time Data Services Private Limited,45.195.105.20
+http,4.144.146.21,80,4.144.146.21:80,Elite,1467,SG,Singapore,Singapore,Microsoft Corporation,20.44.210.140
+http,45.65.226.169,999,45.65.226.169:999,Elite,2091,AR,Argentina,Buenos Aires,Solution LAN S.A,45.65.226.169
