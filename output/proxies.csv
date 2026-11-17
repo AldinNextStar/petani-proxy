@@ -1,16 +1,12 @@
 protocol,ip,port,proxy,anonymity,latency_ms,country_code,country,city,isp,egress_ip
-http,184.75.221.82,3118,184.75.221.82:3118,Elite,165,CA,Canada,Toronto,Amanah Tech Inc.,184.75.221.82
-http,103.237.102.191,11111,103.237.102.191:11111,Elite,485,DE,Germany,Frankfurt am Main,Zenlayer Inc,103.237.102.191
-http,45.189.57.114,3129,45.189.57.114:3129,Elite,502,EC,Ecuador,Santa Rosa,Cbvision S.A.,45.189.57.114
-http,102.244.78.61,8084,102.244.78.61:8084,Elite,1161,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8081,102.244.78.61:8081,Elite,1180,??,Unknown,-,-,102.244.78.57
-http,4.144.146.21,80,4.144.146.21:80,Elite,1181,SG,Singapore,Singapore,Microsoft Corporation,20.44.210.140
-http,102.244.78.61,8082,102.244.78.61:8082,Elite,1189,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8085,102.244.78.61:8085,Elite,1191,CM,Cameroon,Maroua,Orange CAM INTERNET,102.244.78.57
-http,102.244.78.61,8083,102.244.78.61:8083,Elite,1198,??,Unknown,-,-,102.244.78.57
-http,47.254.213.60,1081,47.254.213.60:1081,Elite,1695,MY,Malaysia,Kuala Lumpur,Alibaba Cloud LLC,47.254.213.60
-http,206.135.47.110,999,206.135.47.110:999,Elite,1800,MX,Mexico,Puebla City,Ientc S De RL De CV,206.135.47.106
-http,188.166.178.163,3129,188.166.178.163:3129,Elite,1852,SG,Singapore,Singapore,"DigitalOcean, LLC",188.166.178.163
-http,47.254.213.60,1082,47.254.213.60:1082,Elite,2149,??,Unknown,-,-,47.254.213.60
-http,186.194.161.201,999,186.194.161.201:999,Elite,2301,CO,Colombia,Bogotá,Telenet Digital S.A.S,186.194.161.201
-http,79.106.44.66,2095,79.106.44.66:2095,Elite,2364,AL,Albania,Tirana,ONE ALBANIA SH.A.,79.106.44.66
+http,34.43.46.91,80,34.43.46.91:80,Elite,416,US,United States,Mountain View,Google LLC,35.235.130.204
+http,34.43.46.91,443,34.43.46.91:443,Elite,447,??,Unknown,-,-,35.235.130.204
+http,4.144.146.21,80,4.144.146.21:80,Elite,926,SG,Singapore,Singapore,Microsoft Corporation,20.44.210.140
+http,49.13.48.65,8443,49.13.48.65:8443,Elite,932,DE,Germany,Falkenstein,Hetzner Online GmbH,49.13.48.65
+http,103.82.20.76,8080,103.82.20.76:8080,Elite,1307,VN,Vietnam,Dich Vong,INETACADEMY,171.224.191.156
+http,102.244.78.61,8081,102.244.78.61:8081,Elite,1330,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8082,102.244.78.61:8082,Elite,1332,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8083,102.244.78.61:8083,Elite,1541,CM,Cameroon,Maroua,Orange CAM INTERNET,102.244.78.57
+http,188.166.178.163,3129,188.166.178.163:3129,Elite,1588,SG,Singapore,Singapore,"DigitalOcean, LLC",188.166.178.163
+http,27.147.155.206,12051,27.147.155.206:12051,Elite,1619,BD,Bangladesh,Dhaka,Link3 Technologies Limited,202.74.243.181
+http,85.132.108.42,3128,85.132.108.42:3128,Elite,1843,AZ,Azerbaijan,Baku,AzerSat,85.132.108.42
