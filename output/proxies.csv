@@ -1,20 +1,18 @@
 protocol,ip,port,proxy,anonymity,latency_ms,country_code,country,city,isp,egress_ip
-http,20.98.234.24,8080,20.98.234.24:8080,Elite,66,US,United States,Boydton,Microsoft Corporation,20.98.234.24
-http,103.237.102.191,11111,103.237.102.191:11111,Elite,475,DE,Germany,Frankfurt am Main,Zenlayer Inc,103.237.102.191
-http,132.243.174.245,5002,132.243.174.245:5002,Elite,580,CH,Switzerland,Rümlang,Alexhost S.R.L.,132.243.174.245
-http,165.154.7.156,8888,165.154.7.156:8888,Elite,1039,HK,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,165.154.7.156
-http,102.244.78.61,8082,102.244.78.61:8082,Elite,1127,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8085,102.244.78.61:8085,Elite,1139,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8089,102.244.78.61:8089,Elite,1142,CM,Cameroon,Maroua,Orange CAM INTERNET,102.244.78.57
-http,102.244.78.61,8083,102.244.78.61:8083,Elite,1160,??,Unknown,-,-,102.244.78.57
-http,4.144.146.21,80,4.144.146.21:80,Elite,1170,SG,Singapore,Singapore,Microsoft Corporation,20.44.210.140
-http,102.244.78.61,8086,102.244.78.61:8086,Elite,1180,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8084,102.244.78.61:8084,Elite,1186,??,Unknown,-,-,102.244.78.57
-http,188.166.178.163,3129,188.166.178.163:3129,Elite,1210,SG,Singapore,Singapore,"DigitalOcean, LLC",188.166.178.163
-http,101.36.112.205,1081,101.36.112.205:1081,Elite,1263,HK,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,101.36.112.205
-http,144.31.111.155,8081,144.31.111.155:8081,Elite,1453,NL,The Netherlands,Eygelshoven,"LLC ""HOSTOFF CSL""",144.31.111.155
-http,184.75.221.82,3118,184.75.221.82:3118,Elite,1707,CA,Canada,Toronto,Amanah Tech Inc.,184.75.221.82
-http,170.244.91.137,999,170.244.91.137:999,Elite,2000,VE,Venezuela,Caracas,"WELLCOMM TECNOLOGÍA, C.A.",170.244.91.138
-http,41.33.173.82,8080,41.33.173.82:8080,Elite,2087,EG,Egypt,Cairo,TE Data,41.33.173.82
-http,34.43.46.91,80,34.43.46.91:80,Elite,2282,US,United States,Mountain View,Google LLC,35.235.130.204
-http,185.153.231.35,3129,185.153.231.35:3129,Elite,2289,TR,Turkey,Aksaray,SAHINNETWORK,185.153.231.35
+http,20.98.234.24,8080,20.98.234.24:8080,Elite,153,US,United States,Boydton,Microsoft Corporation,20.98.234.24
+http,184.75.221.82,3118,184.75.221.82:3118,Elite,225,CA,Canada,Toronto,Amanah Tech Inc.,184.75.221.82
+http,34.43.46.91,80,34.43.46.91:80,Elite,267,US,United States,Mountain View,Google LLC,34.96.25.91
+http,103.237.102.191,11111,103.237.102.191:11111,Elite,614,DE,Germany,Frankfurt am Main,Zenlayer Inc,103.237.102.191
+http,132.243.174.245,5002,132.243.174.245:5002,Elite,674,CH,Switzerland,Rümlang,Alexhost S.R.L.,132.243.174.245
+http,34.43.46.91,443,34.43.46.91:443,Elite,992,??,Unknown,-,-,8.231.11.138
+http,165.154.162.73,8888,165.154.162.73:8888,Elite,999,US,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,165.154.162.73
+http,4.144.146.21,80,4.144.146.21:80,Elite,1026,SG,Singapore,Singapore,Microsoft Corporation,20.44.210.140
+http,8.219.94.23,7890,8.219.94.23:7890,Elite,1480,SG,Singapore,Singapore,Alibaba Cloud (Singapore) Private Limited,8.219.94.23
+http,27.147.142.156,12051,27.147.142.156:12051,Elite,1526,BD,Bangladesh,Dhaka,Link3 Technologies Limited,27.147.142.156
+http,45.194.3.108,8080,45.194.3.108:8080,Elite,1567,IN,India,Noida,CtrlS,45.194.3.108
+http,103.82.20.76,8080,103.82.20.76:8080,Elite,1606,VN,Vietnam,Dich Vong,INETACADEMY,115.72.141.119
+http,177.234.217.235,999,177.234.217.235:999,Elite,1649,EC,Ecuador,Quito,Ufinet Panama S.A.,177.234.217.92
+http,116.101.73.52,2030,116.101.73.52:2030,Elite,1657,VN,Vietnam,Hanoi,Viettel Group,116.101.73.52
+http,177.234.217.84,999,177.234.217.84:999,Elite,2167,EC,Ecuador,Quito,Ufinet Panama S.A.,177.234.217.83
+http,45.195.105.20,8080,45.195.105.20:8080,Elite,2387,IN,India,Mumbai,Real Time Data Services Private Limited,45.195.105.20
+http,216.152.152.44,80,216.152.152.44:80,Elite,2493,US,United States,Los Angeles,GTHost,216.152.152.44
