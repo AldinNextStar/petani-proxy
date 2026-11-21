@@ -1,22 +1,21 @@
 protocol,ip,port,proxy,anonymity,latency_ms,country_code,country,city,isp,egress_ip
-http,20.98.234.24,8080,20.98.234.24:8080,Elite,63,US,United States,Boydton,Microsoft Corporation,20.98.234.24
-http,47.77.214.110,80,47.77.214.110:80,Elite,376,US,United States,Minkler,Alibaba.com LLC,104.28.195.192
-http,65.109.65.239,18080,65.109.65.239:18080,Elite,717,FI,Finland,Helsinki,Hetzner Online GmbH,77.111.247.106
-http,103.237.102.191,11111,103.237.102.191:11111,Elite,865,DE,Germany,Frankfurt am Main,Zenlayer Inc,103.237.102.191
-http,4.144.146.21,80,4.144.146.21:80,Elite,1149,SG,Singapore,Singapore,Microsoft Corporation,20.44.210.140
-http,102.244.78.61,8089,102.244.78.61:8089,Elite,1171,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8084,102.244.78.61:8084,Elite,1190,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8086,102.244.78.61:8086,Elite,1195,CM,Cameroon,Maroua,Orange CAM INTERNET,102.244.78.57
-http,102.244.78.61,8082,102.244.78.61:8082,Elite,1197,??,Unknown,-,-,102.244.78.57
-http,222.127.206.145,8085,222.127.206.145:8085,Elite,1359,PH,Philippines,Makati City,GLBB,124.107.110.76
-http,157.100.63.247,999,157.100.63.247:999,Elite,1431,EC,Ecuador,Quito,Ufinet Panama S.A.,157.100.63.247
-http,102.0.14.38,8080,102.0.14.38:8080,Elite,1486,KE,Kenya,Nairobi,Airtel KE Mobile & Fixed Internet,102.0.14.38
-http,191.97.19.82,999,191.97.19.82:999,Elite,1550,VE,Venezuela,Guatire,INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION),191.97.19.82
-http,1.10.248.226,80,1.10.248.226:80,Elite,1599,TH,Thailand,Khwaeng Thung Song Hong,TOT Public Company Limited,1.10.248.226
-http,177.234.217.235,999,177.234.217.235:999,Elite,1649,EC,Ecuador,Quito,Ufinet Panama S.A.,177.234.217.92
-http,34.43.46.91,443,34.43.46.91:443,Elite,1863,US,United States,Mountain View,Google LLC,34.143.38.107
-http,112.203.220.175,8082,112.203.220.175:8082,Elite,1948,PH,Philippines,Quezon City,Philippine Long Distance Telephone Co.,112.203.200.30
-http,94.183.206.215,8080,94.183.206.215:8080,Elite,2109,NL,The Netherlands,Amsterdam,TurtleGuard,146.185.140.85
-http,103.49.166.117,83,103.49.166.117:83,Elite,2380,IN,India,Pune,Nettvox Private Limited,103.171.55.10
-http,8.219.97.248,80,8.219.97.248:80,Elite,2415,SG,Singapore,Singapore,Alibaba Cloud (Singapore) Private Limited,8.219.64.236
-http,217.154.195.87,8888,217.154.195.87:8888,Elite,2445,DE,Germany,Berlin,IONOS SE,217.154.195.87
+http,20.98.234.24,8080,20.98.234.24:8080,Elite,150,US,United States,Boydton,Microsoft Corporation,20.98.234.24
+http,165.154.162.73,8888,165.154.162.73:8888,Elite,258,US,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,165.154.162.73
+http,34.43.46.91,443,34.43.46.91:443,Elite,363,US,United States,Mountain View,Google LLC,35.235.130.204
+http,103.237.102.191,11111,103.237.102.191:11111,Elite,634,DE,Germany,Frankfurt am Main,Zenlayer Inc,103.237.102.191
+http,37.187.109.70,10111,37.187.109.70:10111,Elite,841,FR,France,Roubaix,OVH SAS,37.187.109.70
+http,4.144.146.21,80,4.144.146.21:80,Elite,1042,SG,Singapore,Singapore,Microsoft Corporation,20.44.210.140
+http,47.254.213.60,1081,47.254.213.60:1081,Elite,1075,MY,Malaysia,Kuala Lumpur,Alibaba Cloud LLC,47.254.213.60
+http,165.154.7.156,8888,165.154.7.156:8888,Elite,1133,HK,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,165.154.7.156
+http,102.244.78.61,8084,102.244.78.61:8084,Elite,1160,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8085,102.244.78.61:8085,Elite,1160,CM,Cameroon,Maroua,Orange CAM INTERNET,102.244.78.57
+http,102.244.78.61,8089,102.244.78.61:8089,Elite,1162,??,Unknown,-,-,102.244.78.57
+http,160.22.45.22,8097,160.22.45.22:8097,Elite,1453,ID,Indonesia,Marisa,PT Celebes Multi Network,160.22.45.22
+http,45.194.3.108,8080,45.194.3.108:8080,Elite,1681,IN,India,Noida,CtrlS,45.194.3.108
+http,149.50.231.227,8085,149.50.231.227:8085,Elite,1709,TR,Türkiye,Istanbul,Veganet Teknolojileri VE Hizmetleri Limited Sirketi,149.50.231.227
+http,27.147.153.179,12051,27.147.153.179:12051,Elite,1922,BD,Bangladesh,Dhaka,Link3 Technologies Limited,27.147.153.179
+http,45.43.60.220,8080,45.43.60.220:8080,Elite,2037,JP,Japan,Tokyo,Zenlayer Inc,45.43.60.220
+http,177.234.217.46,999,177.234.217.46:999,Elite,2085,EC,Ecuador,Quito,Ufinet Panama S.A.,177.234.217.42
+http,157.15.139.55,8090,157.15.139.55:8090,Elite,2096,ID,Indonesia,Purworejo,PT Ring Media Nusantara,157.15.139.55
+http,157.100.63.247,999,157.100.63.247:999,Elite,2292,EC,Ecuador,Quito,Ufinet Panama S.A.,157.100.63.247
+http,190.121.239.195,999,190.121.239.195:999,Elite,2406,VE,Venezuela,Caracas,Corporacion Digitel C.A,190.121.239.195
