@@ -1,20 +1,15 @@
 protocol,ip,port,proxy,anonymity,latency_ms,country_code,country,city,isp,egress_ip
-http,129.153.97.250,9443,129.153.97.250:9443,Elite,130,US,United States,Phoenix,Oracle Corporation,129.153.97.250
-http,170.9.13.229,2020,170.9.13.229:2020,Elite,198,US,United States,San Jose,Oracle Corporation,170.9.13.229
-http,20.98.234.24,8080,20.98.234.24:8080,Elite,257,US,United States,Boydton,Microsoft Corporation,20.98.234.24
-http,103.237.102.191,11111,103.237.102.191:11111,Elite,643,DE,Germany,Frankfurt am Main,Zenlayer Inc,103.237.102.191
-http,144.124.251.24,10747,144.124.251.24:10747,Elite,699,??,Unknown,-,-,144.124.251.24
-http,144.124.251.24,10763,144.124.251.24:10763,Elite,701,??,Unknown,-,-,144.124.251.24
-http,144.124.251.24,10448,144.124.251.24:10448,Elite,726,??,Unknown,-,-,144.124.251.24
-http,144.124.251.24,10816,144.124.251.24:10816,Elite,793,??,Unknown,-,-,144.124.251.24
-http,144.124.251.24,10173,144.124.251.24:10173,Elite,803,??,Unknown,-,-,144.124.251.24
-http,158.247.125.5,9443,158.247.125.5:9443,Elite,875,CO,Colombia,Bogotá,Oracle Corporation,158.247.125.5
-http,103.101.98.117,8080,103.101.98.117:8080,Elite,1187,BD,Bangladesh,Gulshan,BD Max Online,103.101.98.28
-http,144.124.251.24,11370,144.124.251.24:11370,Elite,1253,NL,The Netherlands,Amsterdam,Servers Tech Fzco,144.124.251.24
-http,34.43.46.91,443,34.43.46.91:443,Elite,1254,US,United States,Mountain View,Google LLC,34.143.61.41
-http,102.244.78.61,8081,102.244.78.61:8081,Elite,1260,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8082,102.244.78.61:8082,Elite,1261,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8084,102.244.78.61:8084,Elite,1270,CM,Cameroon,Maroua,Orange CAM INTERNET,102.244.78.57
-http,165.154.162.73,8888,165.154.162.73:8888,Elite,1397,US,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,165.154.162.73
-http,103.125.15.69,8080,103.125.15.69:8080,Elite,1984,ID,Indonesia,Medan,PT. RACKH LINTAS ASIA,103.125.15.69
-http,61.118.38.234,60808,61.118.38.234:60808,Elite,2100,JP,Japan,Ishigaki,Open Computer Network,61.118.38.234
+http,20.98.234.24,8080,20.98.234.24:8080,Elite,312,US,United States,Boydton,Microsoft Corporation,20.98.234.24
+http,173.212.207.102,1214,173.212.207.102:1214,Elite,717,FR,France,Lauterbourg,Contabo GmbH,173.212.207.102
+http,45.144.49.64,5443,45.144.49.64:5443,Elite,801,PL,Poland,Warsaw,3hcloud,45.144.49.64
+http,4.144.146.21,80,4.144.146.21:80,Elite,882,SG,Singapore,Singapore,Microsoft Corporation,20.44.210.140
+http,103.237.102.191,11111,103.237.102.191:11111,Elite,884,DE,Germany,Frankfurt am Main,Zenlayer Inc,103.237.102.191
+http,102.244.78.61,8086,102.244.78.61:8086,Elite,1312,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8084,102.244.78.61:8084,Elite,1319,CM,Cameroon,Maroua,Orange CAM INTERNET,102.244.78.57
+http,102.244.78.61,8083,102.244.78.61:8083,Elite,1322,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8089,102.244.78.61:8089,Elite,1334,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8082,102.244.78.61:8082,Elite,1357,??,Unknown,-,-,102.244.78.57
+http,38.103.250.107,8080,38.103.250.107:8080,Elite,1594,ID,Indonesia,Kudus,PT Erajaya Telco Indonesia / Eratel /Eratelindo,38.103.250.107
+http,160.30.204.24,10001,160.30.204.24:10001,Elite,1699,VN,Vietnam,Vinhomes Smart City,TVC,104.207.46.60
+http,34.130.92.118,443,34.130.92.118:443,Elite,2266,CA,Canada,Toronto,Google LLC,34.130.92.118
+http,103.173.162.49,8818,103.173.162.49:8818,Elite,2276,ID,Indonesia,Jatiwangi,Paket Data Andal,103.173.162.49
