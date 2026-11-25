@@ -1,15 +1,22 @@
 protocol,ip,port,proxy,anonymity,latency_ms,country_code,country,city,isp,egress_ip
-http,20.98.234.24,8080,20.98.234.24:8080,Elite,312,US,United States,Boydton,Microsoft Corporation,20.98.234.24
-http,173.212.207.102,1214,173.212.207.102:1214,Elite,717,FR,France,Lauterbourg,Contabo GmbH,173.212.207.102
-http,45.144.49.64,5443,45.144.49.64:5443,Elite,801,PL,Poland,Warsaw,3hcloud,45.144.49.64
-http,4.144.146.21,80,4.144.146.21:80,Elite,882,SG,Singapore,Singapore,Microsoft Corporation,20.44.210.140
-http,103.237.102.191,11111,103.237.102.191:11111,Elite,884,DE,Germany,Frankfurt am Main,Zenlayer Inc,103.237.102.191
-http,102.244.78.61,8086,102.244.78.61:8086,Elite,1312,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8084,102.244.78.61:8084,Elite,1319,CM,Cameroon,Maroua,Orange CAM INTERNET,102.244.78.57
-http,102.244.78.61,8083,102.244.78.61:8083,Elite,1322,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8089,102.244.78.61:8089,Elite,1334,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8082,102.244.78.61:8082,Elite,1357,??,Unknown,-,-,102.244.78.57
-http,38.103.250.107,8080,38.103.250.107:8080,Elite,1594,ID,Indonesia,Kudus,PT Erajaya Telco Indonesia / Eratel /Eratelindo,38.103.250.107
-http,160.30.204.24,10001,160.30.204.24:10001,Elite,1699,VN,Vietnam,Vinhomes Smart City,TVC,104.207.46.60
-http,34.130.92.118,443,34.130.92.118:443,Elite,2266,CA,Canada,Toronto,Google LLC,34.130.92.118
-http,103.173.162.49,8818,103.173.162.49:8818,Elite,2276,ID,Indonesia,Jatiwangi,Paket Data Andal,103.173.162.49
+http,146.190.60.147,8018,146.190.60.147:8018,Elite,240,US,United States,Santa Clara,"DigitalOcean, LLC",146.190.60.147
+http,34.43.46.91,443,34.43.46.91:443,Elite,308,US,United States,Mountain View,Google LLC,34.143.61.41
+http,34.43.46.91,80,34.43.46.91:80,Elite,315,??,Unknown,-,-,34.143.47.93
+http,20.98.234.24,8080,20.98.234.24:8080,Elite,316,US,United States,Boydton,Microsoft Corporation,20.98.234.24
+http,103.237.102.191,11111,103.237.102.191:11111,Elite,752,DE,Germany,Frankfurt am Main,Zenlayer Inc,103.237.102.191
+http,173.212.207.102,1214,173.212.207.102:1214,Elite,772,FR,France,Lauterbourg,Contabo GmbH,173.212.207.102
+http,43.161.205.36,80,43.161.205.36:80,Elite,831,HK,Hong Kong,Hong Kong,Shenzhen Tencent Computer Systems Company Limited,43.161.205.36
+http,165.22.99.36,8011,165.22.99.36:8011,Elite,916,SG,Singapore,Singapore,"DigitalOcean, LLC",165.22.99.36
+http,38.10.107.117,999,38.10.107.117:999,Elite,1148,PE,Peru,Arequipa,MISTICOM,38.10.107.117
+http,167.99.3.26,7936,167.99.3.26:7936,Elite,1277,US,United States,North Bergen,"DigitalOcean, LLC",74.80.146.111
+http,102.244.78.61,8085,102.244.78.61:8085,Elite,1315,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8083,102.244.78.61:8083,Elite,1317,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8086,102.244.78.61:8086,Elite,1323,CM,Cameroon,Maroua,Orange CAM INTERNET,102.244.78.57
+http,45.26.30.144,8888,45.26.30.144:8888,Elite,1420,US,United States,Friendswood,"AT&T Enterprises, LLC",186.247.182.44
+http,171.103.19.126,8080,171.103.19.126:8080,Elite,1614,TH,Thailand,Bangkok,True Internet Corporation CO. Ltd.,171.103.19.126
+http,160.30.204.24,10001,160.30.204.24:10001,Elite,1757,VN,Vietnam,Vinhomes Smart City,TVC,104.207.46.60
+http,27.49.68.66,9999,27.49.68.66:9999,Elite,1983,PH,Philippines,Cebu City,Converge ICT,27.49.68.66
+http,120.136.23.176,8800,120.136.23.176:8800,Elite,2092,CN,China,Beijing,China Unicom Beijing Province Network,103.114.193.75
+http,200.53.2.161,8402,200.53.2.161:8402,Elite,2186,BR,Brazil,Livramento,HQV INFORMATICA LTDA,200.53.2.160
+http,45.180.26.1,999,45.180.26.1:999,Elite,2385,CL,Chile,Punitaqui,Roberto Mena Oyarzun Comunicaciones Eirl,201.236.21.58
+http,120.136.23.170,8800,120.136.23.170:8800,Elite,2490,CN,China,Beijing,China Unicom Beijing Province Network,103.114.193.75
