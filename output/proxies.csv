@@ -1,25 +1,16 @@
 protocol,ip,port,proxy,anonymity,latency_ms,country_code,country,city,isp,egress_ip
-http,20.98.234.24,8080,20.98.234.24:8080,Elite,197,US,United States,Boydton,Microsoft Corporation,20.98.234.24
-http,129.153.97.250,9443,129.153.97.250:9443,Elite,316,US,United States,Phoenix,Oracle Corporation,129.153.97.250
-http,34.43.46.91,80,34.43.46.91:80,Elite,322,??,Unknown,-,-,35.230.220.232
-http,34.43.46.91,443,34.43.46.91:443,Elite,341,US,United States,Mountain View,Google LLC,34.143.61.41
-http,173.212.207.102,1214,173.212.207.102:1214,Elite,594,FR,France,Lauterbourg,Contabo GmbH,173.212.207.102
-http,193.233.90.71,40000,193.233.90.71:40000,Elite,708,RU,Russia,St Petersburg,Aeza Group LLC,193.233.90.71
-http,45.144.49.64,5443,45.144.49.64:5443,Elite,725,PL,Poland,Warsaw,3hcloud,45.144.49.64
-http,43.161.205.36,80,43.161.205.36:80,Elite,943,HK,Hong Kong,Hong Kong,Shenzhen Tencent Computer Systems Company Limited,43.161.205.36
-http,34.96.238.40,8080,34.96.238.40:8080,Elite,998,HK,Hong Kong,Hong Kong,Google LLC,34.96.238.40
-http,102.244.78.61,8083,102.244.78.61:8083,Elite,1380,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8081,102.244.78.61:8081,Elite,1388,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8084,102.244.78.61:8084,Elite,1392,??,Unknown,-,-,102.244.78.57
-http,4.144.146.21,80,4.144.146.21:80,Elite,1523,SG,Singapore,Singapore,Microsoft Corporation,20.44.210.140
-http,201.4.69.230,8080,201.4.69.230:8080,Elite,1584,TR,Turkey,Kilis,High Speed For Internet Services L.L.C,201.4.69.230
-http,102.244.78.61,8082,102.244.78.61:8082,Elite,1648,CM,Cameroon,Maroua,Orange CAM INTERNET,102.244.78.57
-http,45.194.90.225,8080,45.194.90.225:8080,Elite,1677,IN,India,Noida,Shanxi Liyun Breeding Co,45.194.90.225
-http,163.223.105.86,5052,163.223.105.86:5052,Elite,1745,PH,Philippines,Ormoc City,Queens link technology Inc.,163.223.105.86
-http,160.30.204.24,10001,160.30.204.24:10001,Elite,1785,VN,Vietnam,Vinhomes Smart City,TVC,104.207.46.60
-http,45.154.13.42,80,45.154.13.42:80,Elite,1974,HK,Hong Kong,Tseung Kwan O,MOACK.Co.LTD,45.154.13.42
-http,58.187.97.254,2069,58.187.97.254:2069,Elite,2105,VN,Vietnam,Ho Chi Minh City,FPT Telecom Company,171.253.90.204
-http,171.253.90.204,2052,171.253.90.204:2052,Elite,2256,VN,Vietnam,Hanoi,Viettel Corporation,116.104.52.59
-http,119.94.185.43,8082,119.94.185.43:8082,Elite,2257,PH,Philippines,Marilao,Philippine Long Distance Telephone Co.,119.94.185.43
-http,190.119.81.43,999,190.119.81.43:999,Elite,2330,PE,Peru,Chao,America Movil Peru S.A.C.,190.119.81.43
-http,187.251.224.167,80,187.251.224.167:80,Elite,2345,MX,Mexico,León,"TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.",187.251.224.167
+http,20.98.234.24,8080,20.98.234.24:8080,Elite,84,US,United States,Boydton,Microsoft Corporation,20.98.234.24
+http,173.212.207.102,1214,173.212.207.102:1214,Elite,467,FR,France,Lauterbourg,Contabo GmbH,173.212.207.102
+http,103.237.102.191,11111,103.237.102.191:11111,Elite,472,DE,Germany,Frankfurt am Main,Zenlayer Inc,103.237.102.191
+http,4.144.146.21,80,4.144.146.21:80,Elite,1133,SG,Singapore,Singapore,Microsoft Corporation,20.44.210.140
+http,102.244.78.61,8083,102.244.78.61:8083,Elite,1147,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8089,102.244.78.61:8089,Elite,1151,CM,Cameroon,Maroua,Orange CAM INTERNET,102.244.78.57
+http,102.244.78.61,8081,102.244.78.61:8081,Elite,1181,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8085,102.244.78.61:8085,Elite,1194,??,Unknown,-,-,102.244.78.57
+http,103.143.8.126,8089,103.143.8.126:8089,Elite,1201,IN,India,Mumbai,Promptnet Broadband Pvt Ltd,103.143.8.126
+http,34.96.238.40,8080,34.96.238.40:8080,Elite,1283,HK,Hong Kong,Hong Kong,Google LLC,34.96.238.40
+http,45.153.165.86,999,45.153.165.86:999,Elite,1379,DO,Dominican Republic,Puerto Plata,Silkglobal Dominicana SRL,45.153.165.86
+http,45.194.90.225,8080,45.194.90.225:8080,Elite,1426,IN,India,Noida,Shanxi Liyun Breeding Co,45.194.90.225
+http,186.33.41.48,999,186.33.41.48:999,Elite,1524,EC,Ecuador,Guayaquil,Ufinet Panama S.A.,45.229.16.121
+http,165.99.151.252,8080,165.99.151.252:8080,Elite,1724,ID,Indonesia,Bogor,PT Win Akselerasi Net Indonesia,165.99.151.252
+http,34.43.46.91,80,34.43.46.91:80,Elite,2236,US,United States,Mountain View,Google LLC,34.143.61.41
